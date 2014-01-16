@@ -1,6 +1,6 @@
 <h1>Listing locations</h1>
 
-<%= form_tag locations_path, :method => :get do %>
+<%= form_tag geolocations_path, :method => :get do %>
   <p>
     <%= text_field_tag :search, params[:search] %>
     <%= submit_tag "Search Near", :name => nil %>
@@ -23,7 +23,7 @@
     <td><%= location.latitude %></td>
     <td><%= location.longitude %></td>
     <td><%= link_to 'Show', location %></td>
-    <td><%= link_to 'Edit', edit_location_path(location) %></td>
+    <td><%= link_to 'Edit', edit_geolocation_path(location) %></td>
     <td><%= link_to 'Destroy', location, method: :delete, data: { confirm: 'Are you sure?' } %></td>
   </tr>
 <% end %>
@@ -31,4 +31,4 @@
 
 <br />
 
-<%= link_to 'New Location', new_location_path %>
+<%= link_to 'New Location', new_geolocation_path %>

@@ -6,6 +6,7 @@ class GeolocationsController < ActionController::Base
     else
       @locations = Geolocation.all
     end
+  end
 
   def show 
     @location = Geolocation.find(params[:id])
@@ -20,7 +21,7 @@ class GeolocationsController < ActionController::Base
   end
 
   def create
-    @location = Geolocation.new(params[:location])
+    @location = Geolocation.new(params[:geolocation])
 
     respond_to do |format|
       if @location.save
