@@ -1,7 +1,7 @@
 require 'csv'
 
 desc "Import teams from csv file"
-task :import => [:environment] do
+task :import_geo => [:environment] do
 
   file = "db/geodata.csv"
 

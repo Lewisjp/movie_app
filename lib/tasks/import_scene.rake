@@ -1,7 +1,7 @@
 require 'csv'
 
 desc "Import teams from csv file"
-task :import_this => [:environment] do
+task :import_scene => [:environment] do
 
   file = "db/scenedata.csv"
 
