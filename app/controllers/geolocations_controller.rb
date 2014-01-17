@@ -2,7 +2,7 @@ class GeolocationsController < ActionController::Base
   
   def index
     if params[:search].present?
-      @locations = Geolocation.near(params[:search], 50, :order => :distance )
+      @locations = Geolocation.near(params[:search], 0.25, :order => :distance )
     else
       @locations = Geolocation.all
     end
@@ -38,7 +38,7 @@ class GeolocationsController < ActionController::Base
     @location = Geolocation.find(params[:id])
 
     respond_to do |format|
-      if @location.update_attribute(params[:location])
+      if @location.update_attribute(params[:geolocation])
         format.html { redirect_to @location, notice:  'Location was successfully updated.'}
         format.json { head :no_content }
       else
@@ -53,7 +53,7 @@ class GeolocationsController < ActionController::Base
     @location.destroy
 
     respond_to do |format|
-      format.html { redirect_to location_url }
+      format.html { redirect_to geolocation_url }
       format.json { head :no_content }
     end
   end

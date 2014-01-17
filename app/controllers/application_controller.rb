@@ -1,5 +1,5 @@
 class ApplicationController < ActionController::Base
-  before_filter :authorize
+  before_filter :authorize #*feature for search algorithm or backback
   protect_from_forgery
 
 

@@ -1,4 +1,4 @@
-<h1>Listing locations</h1>
+<h1>Enter your address</h1>
 
 <%= form_tag geolocations_path, :method => :get do %>
   <p>
@@ -24,7 +24,8 @@
     <td><%= location.longitude %></td>
     <td><%= link_to 'Show', location %></td>
     <td><%= link_to 'Edit', edit_geolocation_path(location) %></td>
-    <td><%= link_to 'Destroy', location, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+    <!-- <td><%= link_to 'Destroy', location, method: :delete, data: { confirm: 'Are you sure?' } %>
+    </td> -->
   </tr>
 <% end %>
 </table>

@@ -5,7 +5,7 @@
   <%= @location.address %>
 </p>
 
-<p>
+<!-- <p>
   <b>Latitude:</b>
   <%= @location.latitude %>
 </p>
@@ -13,7 +13,7 @@
 <p>
   <b>Longitude:</b>
   <%= @location.longitude %>
-</p>
+</p> -->
 
 
 <%= image_tag "http://maps.google.com/maps/api/staticmap?size=450x300&sensor=false&zoom=16&markers=#{@location.latitude}%2C#{@location.longitude}" %>
@@ -21,8 +21,8 @@
 
 <h3>Nearby locations</h3>
 <ul>
-<% for geolocation in @location.nearbys(10) %>
-  <li><%= link_to location.address, geolocation %> (<%= location.distance.round(2) %> miles)</li>
+<% @location.nearbys(0.25).each do |location| %>
+  <li><%= link_to location.address %> (<%= location.distance.round(2) %> miles)</li>
 <% end %>
 </ul>
 
