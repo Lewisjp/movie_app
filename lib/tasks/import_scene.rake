@@ -1,6 +1,6 @@
 require 'csv'
 
-desc "Import teams from csv file"
+desc "Import scenes from csv file"
 task :import_scene => [:environment] do
 
   file = "db/scenedata.csv"
@@ -10,6 +10,7 @@ task :import_scene => [:environment] do
       :title => row[0],
       :year => row[1],
       :IMDB => row[2],
+      :address => row[3]
     })
   end
 
