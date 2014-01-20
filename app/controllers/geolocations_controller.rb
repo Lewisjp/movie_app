@@ -4,7 +4,7 @@ class GeolocationsController < ActionController::Base
     if params[:search].present?
       @locations = Geolocation.near(params[:search], 0.25, :order => :distance )
     else
-      @locations = Geolocation.all
+      @locations = Geolocation.limit(5)
     end
   end
 

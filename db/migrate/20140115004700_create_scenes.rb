@@ -4,8 +4,7 @@ class CreateScenes < ActiveRecord::Migration
       t.string :title
       t.date :year
       t.string :IMDB
-      t.string :agency
-      t.string :artist
+      t.string :address
       t.belongs_to :geolocation
 
       t.timestamps
