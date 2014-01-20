@@ -1,250 +1,251 @@
 Location Display Text,LATITUDE,LONGITUDE,Borough,Neighborhood,Scene Type,Media,IMDB LINK,Client or book location indicator,Notes,Book Image,Book Page,Display?,IMAGE OF LOCATION
-E. 5th St.<br>East Village<br>Manhattan,40.7224452961828,-73.9786505699157,Manhattan,East Village,N/A,Film,http://imdb.com/title/tt0092494/,N/A,,Y,190,,Y
-New York County Courthouse<br>40 Foley Square<br>Lower Manhattan,40.7137000000000,-74.0079000000000,Manhattan,Lower Manhattan,N/A,Film,http://imdb.com/title/tt0050083/,"New York County
+E. 5th St. East Village Manhattan,40.7224452961828,-73.9786505699157,Manhattan,East Village,N/A,Film,http://imdb.com/title/tt0092494/,N/A,,Y,190,,Y
+New York County Courthouse 40 Foley Square Lower Manhattan,40.7137000000000,-74.0079000000000,Manhattan,Lower Manhattan,N/A,Film,http://imdb.com/title/tt0050083/,"New York County
 Courthouse on Foley Square.",,Y,40,,Y
-W. 47th St. and Seventh Ave.<br>Times Square<br>Manhattan,40.7592204876521,-73.9846211671829,Manhattan,Times Square,N/A,Film,http://www.imdb.com/title/tt0337563/,"47th St. and 7th Ave. Times Square
+W. 47th St. and Seventh Ave. Times Square Manhattan,40.7592204876521,-73.9846211671829,Manhattan,Times Square,N/A,Film,http://www.imdb.com/title/tt0337563/,"47th St. and 7th Ave. Times Square
 Manhattan",,Y,239,,Y
-E. 60-66th St. and Madison Ave.<br>Upper East Side<br>Manhattan,40.7661000000000,-73.9696000000000,Manhattan,Upper East Side,Chases,Film,http://www.imdb.com/title/tt0179626/,60-66th and Madison,,Y,82,,N
-World Trade Center<br>Lower Manhattan,40.7117926273691,-74.0123283863067,Manhattan,Lower Manhattan,N/A,Film,http://www.imdb.com/title/tt0307901/,World Trade Center,,Y,93,,Y
-Carl Schurz Park<br>Upper East Side<br>Manhattan,40.7750655922650,-73.9431273937225,Manhattan,Upper East Side,N/A,Film,http://www.imdb.com/title/tt0307901/,Carl Schurz Park btwn 84th and 85th and promenade,,Y,209,,Y
+E. 60-66th St. and Madison Ave. Upper East Side Manhattan,40.7661000000000,-73.9696000000000,Manhattan,Upper East Side,Chases,Film,http://www.imdb.com/title/tt0179626/,60-66th and Madison,,Y,82,,N
+World Trade Center Lower Manhattan,40.7117926273691,-74.0123283863067,Manhattan,Lower Manhattan,N/A,Film,http://www.imdb.com/title/tt0307901/,World Trade Center,,Y,93,,Y
+Carl Schurz Park Upper East Side Manhattan,40.7750655922650,-73.9431273937225,Manhattan,Upper East Side,N/A,Film,http://www.imdb.com/title/tt0307901/,Carl Schurz Park btwn 84th and 85th and promenade,,Y,209,,Y
 Long Island City,40.7460702458493,-73.9503800868988,Queens,Queens,N/A,Film,http://www.imdb.com/title/tt0120787/,Long Island City,,Y,141,N,N
-Statue of Liberty<br>Liberty Island<br>New York Harbor,40.6895873134383,-74.0437960624694,Manhattan,New York Harbor,N/A,Film,http://www.imdb.com/title/tt0059798/,"Statue of Liberty, Liberty Island, New York Harbor",poor quality,Y,51,,Y
+Statue of Liberty Liberty Island New York Harbor,40.6895873134383,-74.0437960624694,Manhattan,New York Harbor,N/A,Film,http://www.imdb.com/title/tt0059798/,"Statue of Liberty, Liberty Island, New York Harbor",poor quality,Y,51,,Y
 New York Harbor,40.6989909067436,-74.0384960174560,Manhattan,New York Harbor,N/A,Film,http://imdb.com/title/tt0112286/,,,Y,,,Y
-Mercer and Grand<br>SoHo<br>Manhattan,40.7213000000000,-74.0015000000000,Manhattan,SoHo,N/A,Film,http://www.imdb.com/title/tt0088680/,SoHo,,Y,154,N,N
-E. 95th St. off Madison Ave.<br>Upper East Side<br>Manhattan,40.7866000000000,-73.9547000000000,Manhattan,Upper East Side,N/A,Film,http://www.imdb.com/title/tt0099012/,95th Street off Madison Avenue,,Y,224,,N
-Chinatown<br>Manhattan,40.7162165380157,-73.9980804920196,Manhattan,Chinatown,N/A,Film,http://www.imdb.com/title/tt0144084/,Chinatown,,Y,140,,Y
-Mercer St. between Spring and Broome<br>SoHo<br>Manhattan,40.7225591322924,-74.0002906322479,Manhattan,SoHo,N/A,Film,http://www.imdb.com/title/tt0078444/,SoHo,,Y,152-153,N,N
-Coney Island<br>Brooklyn,40.5736092162742,-73.9759683609008,Brooklyn,Brooklyn,N/A,Film,http://www.imdb.com/title/tt0075686/,Coney Island boardwalk,,Y,136,,N
-Pier 11<br>Manhattan,40.7042046109406,-74.0060251951217,Manhattan,Lower Manhattan,N/A,Film,http://www.imdb.com/title/tt0075686/,Pier 11,,Y,121,,N
-Foot of 59th St. Bridge<br>Upper East Side<br>Manhattan,40.7578064331838,-73.9596283435821,Manhattan,Midtown,N/A,Film,http://www.imdb.com/title/tt0075686/,foot of 58th street bridge,,N,,,N
-E. 68th St. between Park Ave. and Madison Ave.<br>Upper East Side<br>Manhattan,40.7689067645632,-73.9666020870208,Manhattan,Upper East Side,N/A,Film,http://www.imdb.com/title/tt0075686/,68th Street bet Park and Madison Aves,,Y,114,,N
-W. 95th St.<br>Upper West Side<br>Manhattan,40.7916379656320,-73.9665377140045,Manhattan,Upper West Side,N/A,Film,http://www.imdb.com/title/tt0075686/,West 95th Street,,Y,222,,Y
-Bergdorf's at 754 Fifth Ave.<br>Midtown<br>Manhattan,40.7633340000000,-73.9738910000000,Manhattan,Midtown,N/A,Film,http://www.imdb.com/title/tt0082031/,"in front of Bergorf's, 5th Ave at 58th street",,N,,,Y
-Sixth Ave. between 11th St. and 12th St.<br>West Village<br>Manhattan,40.7354050994831,-73.9983165264129,Manhattan,West Village,N/A,Film,http://imdb.com/title/tt0119822/,Sixth Avenue btwn 11th ansd 12th St east side of 6th Ave,,Y,206,,Y
-Washington Square Park<br>West Village<br>Manhattan,40.7307222999436,-73.9965140819549,Manhattan,West Village,N/A,Film,http://www.imdb.com/title/tt0061385/,Washington Square Park,poor quality,Y,74-75,,Y
-Greenwich St. and Christopher St.<br>Greenwich Village<br>Manhattan,40.7331125200550,-74.0074145793914,Manhattan,SoHo,N/A,Film,http://www.imdb.com/title/tt0061385/,Greenwhich Street near Christopher Street,,Y,74-75,,Y
-Lower East Side<br>Manhattan,40.7181844332103,-73.9888536930084,Manhattan,Lower East Side,N/A,Film,http://www.imdb.com/title/tt0115632/,[Ludlow below Delancy ] Lower East Side,,Y,187,,Y
+Mercer and Grand SoHo Manhattan,40.7213000000000,-74.0015000000000,Manhattan,SoHo,N/A,Film,http://www.imdb.com/title/tt0088680/,SoHo,,Y,154,N,N
+E. 95th St. off Madison Ave. Upper East Side Manhattan,40.7866000000000,-73.9547000000000,Manhattan,Upper East Side,N/A,Film,http://www.imdb.com/title/tt0099012/,95th Street off Madison Avenue,,Y,224,,N
+Chinatown Manhattan,40.7162165380157,-73.9980804920196,Manhattan,Chinatown,N/A,Film,http://www.imdb.com/title/tt0144084/,Chinatown,,Y,140,,Y
+Mercer St. between Spring and Broome SoHo Manhattan,40.7225591322924,-74.0002906322479,Manhattan,SoHo,N/A,Film,http://www.imdb.com/title/tt0078444/,SoHo,,Y,152-153,N,N
+Coney Island Brooklyn,40.5736092162742,-73.9759683609008,Brooklyn,Brooklyn,N/A,Film,http://www.imdb.com/title/tt0075686/,Coney Island boardwalk,,Y,136,,N
+Pier 11 Manhattan,40.7042046109406,-74.0060251951217,Manhattan,Lower Manhattan,N/A,Film,http://www.imdb.com/title/tt0075686/,Pier 11,,Y,121,,N
+Foot of 59th St. Bridge Upper East Side Manhattan,40.7578064331838,-73.9596283435821,Manhattan,Midtown,N/A,Film,http://www.imdb.com/title/tt0075686/,foot of 58th street bridge,,N,,,N
+E. 68th St. between Park Ave. and Madison Ave. Upper East Side Manhattan,40.7689067645632,-73.9666020870208,Manhattan,Upper East Side,N/A,Film,http://www.imdb.com/title/tt0075686/,68th Street bet Park and Madison Aves,,Y,114,,N
+W. 95th St. Upper West Side Manhattan,40.7916379656320,-73.9665377140045,Manhattan,Upper West Side,N/A,Film,http://www.imdb.com/title/tt0075686/,West 95th Street,,Y,222,,Y
+Bergdorf's at 754 Fifth Ave. Midtown Manhattan,40.7633340000000,-73.9738910000000,Manhattan,Midtown,N/A,Film,http://www.imdb.com/title/tt0082031/,"in front of Bergorf's, 5th Ave at 58th street",,N,,,Y
+Sixth Ave. between 11th St. and 12th St. West Village Manhattan,40.7354050994831,-73.9983165264129,Manhattan,West Village,N/A,Film,http://imdb.com/title/tt0119822/,Sixth Avenue btwn 11th ansd 12th St east side of 6th Ave,,Y,206,,Y
+Washington Square Park West Village Manhattan,40.7307222999436,-73.9965140819549,Manhattan,West Village,N/A,Film,http://www.imdb.com/title/tt0061385/,Washington Square Park,poor quality,Y,74-75,,Y
+Greenwich St. and Christopher St. Greenwich Village Manhattan,40.7331125200550,-74.0074145793914,Manhattan,SoHo,N/A,Film,http://www.imdb.com/title/tt0061385/,Greenwhich Street near Christopher Street,,Y,74-75,,Y
+Lower East Side Manhattan,40.7181844332103,-73.9888536930084,Manhattan,Lower East Side,N/A,Film,http://www.imdb.com/title/tt0115632/,[Ludlow below Delancy ] Lower East Side,,Y,187,,Y
 Chelsea,40.7432415474408,-74.0019643306732,Manhattan,Chelsea,Rooftops,Film,http://www.imdb.com/title/tt0115644/,chelsea (midtown),,Y,231,N,N
-F.A.O. Schwarz at 767 Fifth Ave.<br>Midtown<br>Manhattan,40.7640530000000,-73.9729780000000,Manhattan,Midtown,N/A,Film,http://www.imdb.com/title/tt0094737/,F.A.O. Schwarz - 58th and Fifth Avenue,poor quality,Y,162-163,,Y
-Prospect Park West and 16th St.<br>Windsor Terrace<br>Brooklyn,40.6574944777108,-73.9740693569183,Brooklyn,Brooklyn,N/A,Film,http://www.imdb.com/title/tt0112541/,Prospect Park West and 16th Street in Windsor Terrace,,Y,177,,N
-Tiffany & Co. at 727 Fifth Ave.<br>Midtown<br>Manhattan,40.7625100000000,-73.9741420000000,Manhattan,Midtown,N/A,Film,http://www.imdb.com/title/tt0054698/,Tiffany & Co. - 727 Fifth Avenue at 57th Street,,Y,49,,Y
-E. 71st St.<br>Upper East Side<br>Manhattan,40.7713606139352,-73.9664304256439,Manhattan,Upper East Side,N/A,Film,http://www.imdb.com/title/tt0054698/,Tiffany & Co. - 727 Fifth Avenue at 57th Street,,Y,48,,Y
-Central Park Mall<br>Manhattan,40.7732131289256,-73.9712798595428,Manhattan,Central Park,N/A,Film,http://www.imdb.com/title/tt0054698/,Tiffany & Co. - 727 Fifth Avenue at 57th Street,,Y,48,,Y
-Carnegie Deli at 854 Seventh Ave.<br>Midtown<br>Manhattan,40.7640730000000,-73.9812880000000,Manhattan,Midtown,N/A,Film,http://www.imdb.com/title/tt0087003/,Carnegie Deli - 7th Avenue at 55th Street,poor quality,Y,158,,Y
-Howard Beach<br>Queens,40.6655354110279,-73.8412570953369,Queens,Queens,N/A,TV,http://imdb.com/title/tt0083395/,Howard Beach ,,Y,256,,Y
-American Ballet Theater<br>890 Broadway<br>Manhattan,40.7386410000000,-73.9897740000000,Manhattan,Midtown,N/A,Film,http://www.imdb.com/title/tt0210616/,American Ballet Theater: 890 Broadway,,Y,215,,N
-269 E. Houston St.<br>Lower East Side<br>Manhattan,40.7215160000000,-73.9846160000000,Manhattan,Lower East Side,N/A,Film,http://www.imdb.com/title/tt0118842/,269 East Houston Street,,Y,188,,N
-Chelsea Hotel on W. 23rd St.<br>Chelsea<br>Manhattan,40.7442870000000,-73.9964970000000,Manhattan,Midtown,N/A,Film,http://www.imdb.com/title/tt0226935/,"Chelsea Hotel, 23rd street",,Y,242,,Y
-Gowanus Houses<br>Brooklyn,40.6841527980685,-73.9880490303039,Brooklyn,Brooklyn,N/A,Film,http://www.imdb.com/title/tt0112688/,"Gowanus Houses: Wycoff, Douglass, Bond and Hoyt streets",We have another photo,Y,178,,Y
-Fort Tryon Park<br>Manhattan,40.8594603138554,-73.9340829849243,Manhattan,Fort George,N/A,Film,http://www.imdb.com/title/tt0062824/,Fort Tyron Park,,Y,95,,Y
+F.A.O. Schwarz at 767 Fifth Ave. Midtown Manhattan,40.7640530000000,-73.9729780000000,Manhattan,Midtown,N/A,Film,http://www.imdb.com/title/tt0094737/,F.A.O. Schwarz - 58th and Fifth Avenue,poor quality,Y,162-163,,Y
+Prospect Park West and 16th St. Windsor Terrace Brooklyn,40.6574944777108,-73.9740693569183,Brooklyn,Brooklyn,N/A,Film,http://www.imdb.com/title/tt0112541/,Prospect Park West and 16th Street in Windsor Terrace,,Y,177,,N
+Tiffany & Co. at 727 Fifth Ave. Midtown Manhattan,40.7625100000000,-73.9741420000000,Manhattan,Midtown,N/A,Film,http://www.imdb.com/title/tt0054698/,Tiffany & Co. - 727 Fifth Avenue at 57th Street,,Y,49,,Y
+E. 71st St. Upper East Side Manhattan,40.7713606139352,-73.9664304256439,Manhattan,Upper East Side,N/A,Film,http://www.imdb.com/title/tt0054698/,Tiffany & Co. - 727 Fifth Avenue at 57th Street,,Y,48,,Y
+Central Park Mall Manhattan,40.7732131289256,-73.9712798595428,Manhattan,Central Park,N/A,Film,http://www.imdb.com/title/tt0054698/,Tiffany & Co. - 727 Fifth Avenue at 57th Street,,Y,48,,Y
+Carnegie Deli at 854 Seventh Ave. Midtown Manhattan,40.7640730000000,-73.9812880000000,Manhattan,Midtown,N/A,Film,http://www.imdb.com/title/tt0087003/,Carnegie Deli - 7th Avenue at 55th Street,poor quality,Y,158,,Y
+Howard Beach Queens,40.6655354110279,-73.8412570953369,Queens,Queens,N/A,TV,http://imdb.com/title/tt0083395/,Howard Beach ,,Y,256,,Y
+American Ballet Theater 890 Broadway Manhattan,40.7386410000000,-73.9897740000000,Manhattan,Midtown,N/A,Film,http://www.imdb.com/title/tt0210616/,American Ballet Theater: 890 Broadway,,Y,215,,N
+269 E. Houston St. Lower East Side Manhattan,40.7215160000000,-73.9846160000000,Manhattan,Lower East Side,N/A,Film,http://www.imdb.com/title/tt0118842/,269 East Houston Street,,Y,188,,N
+Chelsea Hotel on W. 23rd St. Chelsea Manhattan,40.7442870000000,-73.9964970000000,Manhattan,Midtown,N/A,Film,http://www.imdb.com/title/tt0226935/,"Chelsea Hotel, 23rd street",,Y,242,,Y
+Gowanus Houses Brooklyn,40.6841527980685,-73.9880490303039,Brooklyn,Brooklyn,N/A,Film,http://www.imdb.com/title/tt0112688/,"Gowanus Houses: Wycoff, Douglass, Bond and Hoyt streets",We have another photo,Y,178,,Y
+Fort Tryon Park Manhattan,40.8594603138554,-73.9340829849243,Manhattan,Fort George,N/A,Film,http://www.imdb.com/title/tt0062824/,Fort Tyron Park,,Y,95,,Y
 Harlem,40.8065008407019,-73.9392864704132,Manhattan,Harlem,N/A,Film,http://imdb.com/title/tt0065579/,Harlem,,Y,100,N,N
-Fifth Ave. and 53rd St.<br>Midtown<br>Manhattan,40.7604000000000,-73.9758000000000,Manhattan,Midtown,N/A,Film,http://imdb.com/title/tt0090555/,Fifth Avenue,,Y,133,,Y
-"Chambers St. near Centre St.<br>Lower Manhattan
+Fifth Ave. and 53rd St. Midtown Manhattan,40.7604000000000,-73.9758000000000,Manhattan,Midtown,N/A,Film,http://imdb.com/title/tt0090555/,Fifth Avenue,,Y,133,,Y
+"Chambers St. near Centre St. Lower Manhattan
 ",40.7134520000000,-74.0043730000000,Manhattan,SoHo,N/A,Film,http://www.imdb.com/title/tt0092493/,Chambers St bet Elk St and Centre St,We have another photo,Y,162,,Y
-Stuyvesant Ave. and Macon St.<br>Brooklyn,40.6831114032117,-73.9320552349090,Brooklyn,Brooklyn,N/A,Film,http://www.imdb.com/title/tt0109504/,Brooklyn - streets TK,We have another photo,Y,190,,Y
-35 Essex St.<br>Lower East Side<br>Manhattan,40.7160500000000,-73.9897490000000,Manhattan,Lower East Side,New York Moments,Film,http://www.imdb.com/title/tt0094921/,35 Essex Street,,Y,198,,N
-West Village<br>Manhattan,40.7289824258668,-74.0008378028869,Manhattan,West Village,N/A,Film,http://www.imdb.com/title/tt0080569/,Central Park,,Y,144,,Y
-Central Park<br>Manhattan,40.7792090732745,-73.9711833000183,Manhattan,Central Park,N/A,Film,http://www.imdb.com/title/tt0080569/,Central Park,,Y,144,,Y
-Seventh Ave. and 48th St.<br>Times Square<br>Manhattan,40.7598000000000,-73.9842000000000,Manhattan,Times Square,N/A,Film,http://www.imdb.com/title/tt0266452/,Times Square,Additional image p10-11,Y,6/238,,N
-Subway Station near Court St.<br>Brooklyn,40.6938000000000,-73.9904000000000,Brooklyn,Brooklyn,The Subway,Film,http://www.imdb.com/title/tt0071402/,Subway near Court St.,,Y,67,,Y
-St. Marks Place<br>East Village<br>Manhattan,40.7291710000000,-73.9893900000000,Manhattan,East Village,N/A,Film,http://www.imdb.com/title/tt0089017/,St. Marks Place,poor quality,Y,119,,Y
-George Washington Bus Terminal<br>Manhattan,40.8492840000000,-73.9369660000000,Manhattan,Fort George,N/A,Film,http://www.imdb.com/title/tt0089017/,George Washington Bus Terminal (uptown Port Authority),,Y,156,,Y
-Central Park South<br>Manhattan,40.7670541295091,-73.9789938926696,Manhattan,Central Park,Chases,Film,http://www.imdb.com/title/tt0112864/,CPS btwn 6th and 7th Ave,,Y,80,,Y
-Stuyvesant Ave.<br>Bedford-Stuyvesant<br>Brooklyn,40.6893107170727,-73.9332890510559,Brooklyn,Brooklyn,N/A,Film,http://www.imdb.com/title/tt0097216/,"Stuyvesant Avenue
+Stuyvesant Ave. and Macon St. Brooklyn,40.6831114032117,-73.9320552349090,Brooklyn,Brooklyn,N/A,Film,http://www.imdb.com/title/tt0109504/,Brooklyn - streets TK,We have another photo,Y,190,,Y
+35 Essex St. Lower East Side Manhattan,40.7160500000000,-73.9897490000000,Manhattan,Lower East Side,New York Moments,Film,http://www.imdb.com/title/tt0094921/,35 Essex Street,,Y,198,,N
+West Village Manhattan,40.7289824258668,-74.0008378028869,Manhattan,West Village,N/A,Film,http://www.imdb.com/title/tt0080569/,Central Park,,Y,144,,Y
+Central Park Manhattan,40.7792090732745,-73.9711833000183,Manhattan,Central Park,N/A,Film,http://www.imdb.com/title/tt0080569/,Central Park,,Y,144,,Y
+Seventh Ave. and 48th St. Times Square Manhattan,40.7598000000000,-73.9842000000000,Manhattan,Times Square,N/A,Film,http://www.imdb.com/title/tt0266452/,Times Square,Additional image p10-11,Y,6/238,,N
+Subway Station near Court St. Brooklyn,40.6938000000000,-73.9904000000000,Brooklyn,Brooklyn,The Subway,Film,http://www.imdb.com/title/tt0071402/,Subway near Court St.,,Y,67,,Y
+St. Marks Place East Village Manhattan,40.7291710000000,-73.9893900000000,Manhattan,East Village,N/A,Film,http://www.imdb.com/title/tt0089017/,St. Marks Place,poor quality,Y,119,,Y
+George Washington Bus Terminal Manhattan,40.8492840000000,-73.9369660000000,Manhattan,Fort George,N/A,Film,http://www.imdb.com/title/tt0089017/,George Washington Bus Terminal (uptown Port Authority),,Y,156,,Y
+Central Park South Manhattan,40.7670541295091,-73.9789938926696,Manhattan,Central Park,Chases,Film,http://www.imdb.com/title/tt0112864/,CPS btwn 6th and 7th Ave,,Y,80,,Y
+Stuyvesant Ave. Bedford-Stuyvesant Brooklyn,40.6893107170727,-73.9332890510559,Brooklyn,Brooklyn,N/A,Film,http://www.imdb.com/title/tt0097216/,"Stuyvesant Avenue
 Bedford-Stuyvesant
 Brooklyn",Various other photos,Y,174-175,,Y
-Prospect Park South and 16th St.<br>Brooklyn,40.6572503046534,-73.9742195606231,Brooklyn,Brooklyn,N/A,Film,http://www.imdb.com/title/tt0072890/,Park Slope,,Y,"4,63",,N
-The Empire State Building<br>Midtown<br>Manhattan,40.7483461227418,-73.9848840236663,Manhattan,Midtown,N/A,Film,http://www.imdb.com/title/tt0208993/,"The Empire State building, 34th St and 5th Avenue",,N,125,,Y
-Guggenheim Museum<br>Upper East Side<br>Manhattan,40.7829720000000,-73.9593760000000,Manhattan,Upper East Side,N/A,Film,http://www.imdb.com/title/tt0208993/,"Guggenheim Musem, 88th St and 5th Avenue",,Y,125,,Y
-Orchard St. and Rivington St.<br>Lower East Side<br>Manhattan,40.7203000000000,-73.9891000000000,Manhattan,Lower East Side,N/A,Film,http://www.imdb.com/title/tt0338013/,Orchard Street,,Y,250-251,,Y
-High School of the Performing Arts<br>120 W. 46th St.<br>Manhattan,40.7575660000000,-73.9830470000000,Manhattan,Times Square,N/A,Film,http://www.imdb.com/title/tt0080716/,46th street bet 6th ave and broadway,,Y,115,,N
-W. 59th St. and Tenth Ave.<br>Upper West Side<br>Manhattan,40.7704000000000,-73.9876000000000,Manhattan,Upper West Side,N/A,Film,http://www.imdb.com/title/tt0080716/,59th Street and 10th Avenue,,Y,122,,N
-St. George Station<br>Staten Island,40.6445683555248,-74.0727210044860,Staten Island,Staten Island,N/A,Film,http://www.imdb.com/title/tt0363607/,Staten Island Ferry Terminal St. George,,Y,196-197,,Y
-George Washington Bridge<br>Manhattan,40.8493652358538,-73.9424729347229,Manhattan,Washington Heights,N/A,Film,http://imdb.com/title/tt0040366/,near the George Washington Bridge,,Y,33,,N
-A South Bronx rooftop<br>The Bronx,40.8174468845588,-73.9088487625122,The Bronx,The Bronx,Rooftops,Film,http://imdb.com/title/tt0082402/,South Bronx rooftop,,Y,126,,Y
-Columbus Circle<br>Upper West Side<br>Manhattan,40.7681267139935,-73.9819550514221,Manhattan,Upper West Side,N/A,Film,http://www.imdb.com/title/tt0087332/,Columbus Circle,,Y,181-183,,Y
-W. 66th St. and Central Park West<br>Upper West Side<br>Manhattan,40.7724000000000,-73.9787000000000,Manhattan,Upper West Side,N/A,Film,http://www.imdb.com/title/tt0087332/,66th Street and Central Park West,poor quality,Y,118,,Y
-World Trade Center<br>Lower Manhattan,40.7122643083124,-74.0112394094467,Manhattan,Lower Manhattan,N/A,Film,http://www.imdb.com/title/tt0070121/,Roof of WTC,poor quality,Y,72-73,,Y
-Times Square<br>Manhattan,40.7593180075412,-73.9848464727401,Manhattan,Times Square,N/A,Film,http://www.imdb.com/title/tt0070121/,"Accutron Watch Sign, Times Square",poor quality,Y,72-73,,Y
-Lincoln Center<br>Upper West Side<br>Manhattan,40.7723031280163,-73.9833766222000,Manhattan,Upper West Side,N/A,Film,http://www.imdb.com/title/tt0070121/,Lincoln Center - Columbus Avenue & 61st Street,poor quality,Y,72-73,,Y
-Lincoln Center Plaza<br>Upper West Side<br>Manhattan,40.7733512529741,-73.9836877584457,Manhattan,Upper West Side,N/A,Film,http://www.imdb.com/title/tt0070121/,"Empire Diner, Tenth Ave at 22nd Street",poor quality,Y,72-73,,Y
-Bethesda Fountain<br>Central Park<br>Manhattan,40.7743668621601,-73.9707863330841,Manhattan,Central Park,N/A,Film,http://www.imdb.com/title/tt0070121/,"Betheda Fountain, Central Park",poor quality,Y,72-73,,Y
-Ramble<br>Central Park<br>Manhattan,40.7764630304290,-73.9709794521331,Manhattan,Central Park,N/A,Film,http://www.imdb.com/title/tt0070121/,"Ramble, Central Park",poor quality,Y,72-73,,Y
-Under Triboro Bridge<br>Randalls Island,40.7845708415303,-73.9294481277465,Manhattan,Randall's Island,N/A,Film,http://www.imdb.com/title/tt0070121/,"Under Triboro Bridge, Randalls Island",poor quality,Y,72-73,,Y
-Soldiers and Sailor's Monument<br>Riverside Park (at 89th St.)<br>Manhattan,40.7923040236013,-73.9787739515304,Manhattan,Upper West Side,N/A,Film,http://www.imdb.com/title/tt0070121/,"Soldiers and Sailor's Monument, 89th street Riverside Park",poor quality,Y,72-73,,Y
-Madison Square Garden<br>Midtown<br>Manhattan,40.7503455788795,-73.9914983510971,Manhattan,Midtown,N/A,Film,http://www.imdb.com/title/tt0120685/,Madison Square Garden,Additional image p228-229,Y,180,,Y
-24-13 32nd St.<br>Astoria<br>Queens,40.7714824915087,-73.9152163267135,Queens,Queens,N/A,Film,http://imdb.com/title/tt0099685/,Queens,slide,Y,25,,Y
-W. 76th St & Columbus<br>Upper West Side<br>Manhattan,40.7800000000000,-73.9769000000000,Manhattan,Upper West Side,Rooftops,Film,http://www.imdb.com/title/tt0099699/,West 76th Street,We have another photo,Y,230,,Y
-39 Whitehall St.<br>Lower Manhattan,40.7029510000000,-74.0127770000000,Manhattan,Lower Manhattan,N/A,Film,http://www.imdb.com/title/tt0063036/,39 Whitehall Street,poor quality,Y,71,,Y
-Sheep's Meadow<br>Central Park<br>Manhattan,40.7717993721535,-73.9748847484588,Manhattan,Central Park,N/A,Film,http://www.imdb.com/title/tt0079261/,Central Park,,Y,145,,Y
-Spring St. and Green St.<br>SoHo<br>Manhattan,40.7238000000000,-74.0004000000000,Manhattan,SoHo,N/A,Film,http://www.imdb.com/title/tt0091167/,SoHo,,Y,155,,N
-W. 95th St. and West End Ave.<br>Upper West Side<br>Manhattan,40.7946000000000,-73.9737000000000,Manhattan,Upper West Side,N/A,Film,http://www.imdb.com/title/tt0091167/,95th Street and West End Avenue,,N,,,N
-Metro Theatre (2626 Broadway)<br>Upper West Side<br>Manhattan,40.7967660000000,-73.9699470000000,Manhattan,Upper West Side,N/A,Film,http://www.imdb.com/title/tt0091167/,"Metro Theatre, 101st and Broadway",,Y,241,,N
-Municipal Building<br>1 Centre St.<br>Lower Manhattan,40.7130206173333,-74.0033751726150,Manhattan,Lower Manhattan,Rooftops,Film,http://imdb.com/title/tt0382073/,Municipal Building,,Y,232,,Y
-Spring St. and Greene St.<br>SoHo<br>Manhattan,40.7238000000000,-74.0004000000000,Manhattan,SoHo,N/A,Film,http://www.imdb.com/title/tt0386588/,"Greene and Spring Streets, SoHo",,Y,226,,N
+Prospect Park South and 16th St. Brooklyn,40.6572503046534,-73.9742195606231,Brooklyn,Brooklyn,N/A,Film,http://www.imdb.com/title/tt0072890/,Park Slope,,Y,"4,63",,N
+The Empire State Building Midtown Manhattan,40.7483461227418,-73.9848840236663,Manhattan,Midtown,N/A,Film,http://www.imdb.com/title/tt0208993/,"The Empire State building, 34th St and 5th Avenue",,N,125,,Y
+Guggenheim Museum Upper East Side Manhattan,40.7829720000000,-73.9593760000000,Manhattan,Upper East Side,N/A,Film,http://www.imdb.com/title/tt0208993/,"Guggenheim Musem, 88th St and 5th Avenue",,Y,125,,Y
+Orchard St. and Rivington St. Lower East Side Manhattan,40.7203000000000,-73.9891000000000,Manhattan,Lower East Side,N/A,Film,http://www.imdb.com/title/tt0338013/,Orchard Street,,Y,250-251,,Y
+High School of the Performing Arts 120 W. 46th St. Manhattan,40.7575660000000,-73.9830470000000,Manhattan,Times Square,N/A,Film,http://www.imdb.com/title/tt0080716/,46th street bet 6th ave and broadway,,Y,115,,N
+W. 59th St. and Tenth Ave. Upper West Side Manhattan,40.7704000000000,-73.9876000000000,Manhattan,Upper West Side,N/A,Film,http://www.imdb.com/title/tt0080716/,59th Street and 10th Avenue,,Y,122,,N
+St. George Station Staten Island,40.6445683555248,-74.0727210044860,Staten Island,Staten Island,N/A,Film,http://www.imdb.com/title/tt0363607/,Staten Island Ferry Terminal St. George,,Y,196-197,,Y
+George Washington Bridge Manhattan,40.8493652358538,-73.9424729347229,Manhattan,Washington Heights,N/A,Film,http://imdb.com/title/tt0040366/,near the George Washington Bridge,,Y,33,,N
+A South Bronx rooftop The Bronx,40.8174468845588,-73.9088487625122,The Bronx,The Bronx,Rooftops,Film,http://imdb.com/title/tt0082402/,South Bronx rooftop,,Y,126,,Y
+Columbus Circle Upper West Side Manhattan,40.7681267139935,-73.9819550514221,Manhattan,Upper West Side,N/A,Film,http://www.imdb.com/title/tt0087332/,Columbus Circle,,Y,181-183,,Y
+W. 66th St. and Central Park West Upper West Side Manhattan,40.7724000000000,-73.9787000000000,Manhattan,Upper West Side,N/A,Film,http://www.imdb.com/title/tt0087332/,66th Street and Central Park West,poor quality,Y,118,,Y
+World Trade Center Lower Manhattan,40.7122643083124,-74.0112394094467,Manhattan,Lower Manhattan,N/A,Film,http://www.imdb.com/title/tt0070121/,Roof of WTC,poor quality,Y,72-73,,Y
+Times Square Manhattan,40.7593180075412,-73.9848464727401,Manhattan,Times Square,N/A,Film,http://www.imdb.com/title/tt0070121/,"Accutron Watch Sign, Times Square",poor quality,Y,72-73,,Y
+Lincoln Center Upper West Side Manhattan,40.7723031280163,-73.9833766222000,Manhattan,Upper West Side,N/A,Film,http://www.imdb.com/title/tt0070121/,Lincoln Center - Columbus Avenue & 61st Street,poor quality,Y,72-73,,Y
+Lincoln Center Plaza Upper West Side Manhattan,40.7733512529741,-73.9836877584457,Manhattan,Upper West Side,N/A,Film,http://www.imdb.com/title/tt0070121/,"Empire Diner, Tenth Ave at 22nd Street",poor quality,Y,72-73,,Y
+Bethesda Fountain Central Park Manhattan,40.7743668621601,-73.9707863330841,Manhattan,Central Park,N/A,Film,http://www.imdb.com/title/tt0070121/,"Betheda Fountain, Central Park",poor quality,Y,72-73,,Y
+Ramble Central Park Manhattan,40.7764630304290,-73.9709794521331,Manhattan,Central Park,N/A,Film,http://www.imdb.com/title/tt0070121/,"Ramble, Central Park",poor quality,Y,72-73,,Y
+Under Triboro Bridge Randalls Island,40.7845708415303,-73.9294481277465,Manhattan,Randall's Island,N/A,Film,http://www.imdb.com/title/tt0070121/,"Under Triboro Bridge, Randalls Island",poor quality,Y,72-73,,Y
+Soldiers and Sailor's Monument Riverside Park (at 89th St.) Manhattan,40.7923040236013,-73.9787739515304,Manhattan,Upper West Side,N/A,Film,http://www.imdb.com/title/tt0070121/,"Soldiers and Sailor's Monument, 89th street Riverside Park",poor quality,Y,72-73,,Y
+Madison Square Garden Midtown Manhattan,40.7503455788795,-73.9914983510971,Manhattan,Midtown,N/A,Film,http://www.imdb.com/title/tt0120685/,Madison Square Garden,Additional image p228-229,Y,180,,Y
+24-13 32nd St. Astoria Queens,40.7714824915087,-73.9152163267135,Queens,Queens,N/A,Film,http://imdb.com/title/tt0099685/,Queens,slide,Y,25,,Y
+W. 76th St & Columbus Upper West Side Manhattan,40.7800000000000,-73.9769000000000,Manhattan,Upper West Side,Rooftops,Film,http://www.imdb.com/title/tt0099699/,West 76th Street,We have another photo,Y,230,,Y
+39 Whitehall St. Lower Manhattan,40.7029510000000,-74.0127770000000,Manhattan,Lower Manhattan,N/A,Film,http://www.imdb.com/title/tt0063036/,39 Whitehall Street,poor quality,Y,71,,Y
+Sheep's Meadow Central Park Manhattan,40.7717993721535,-73.9748847484588,Manhattan,Central Park,N/A,Film,http://www.imdb.com/title/tt0079261/,Central Park,,Y,145,,Y
+Spring St. and Green St. SoHo Manhattan,40.7238000000000,-74.0004000000000,Manhattan,SoHo,N/A,Film,http://www.imdb.com/title/tt0091167/,SoHo,,Y,155,,N
+W. 95th St. and West End Ave. Upper West Side Manhattan,40.7946000000000,-73.9737000000000,Manhattan,Upper West Side,N/A,Film,http://www.imdb.com/title/tt0091167/,95th Street and West End Avenue,,N,,,N
+Metro Theatre (2626 Broadway) Upper West Side Manhattan,40.7967660000000,-73.9699470000000,Manhattan,Upper West Side,N/A,Film,http://www.imdb.com/title/tt0091167/,"Metro Theatre, 101st and Broadway",,Y,241,,N
+Municipal Building 1 Centre St. Lower Manhattan,40.7130206173333,-74.0033751726150,Manhattan,Lower Manhattan,Rooftops,Film,http://imdb.com/title/tt0382073/,Municipal Building,,Y,232,,Y
+Spring St. and Greene St. SoHo Manhattan,40.7238000000000,-74.0004000000000,Manhattan,SoHo,N/A,Film,http://www.imdb.com/title/tt0386588/,"Greene and Spring Streets, SoHo",,Y,226,,N
 Brooklyn Bridge,40.7031065948382,-73.9931881427764,Brooklyn,Brooklyn,N/A,Film,http://www.imdb.com/title/tt0102070/,Brooklyn Bridge ramp on Brooklyn side,,Y,131,,Y
-170th St. in Morrisania<br>The Bronx,40.8387004363497,-73.9137303829193,The Bronx,The Bronx,The Subway,Film,http://www.imdb.com/title/tt0110091/,170th Street in Morrisania,Additional Image p193,Y,129,,Y
-W. 20th St. <br>Chelsea<br>Manhattan,40.7405346630455,-73.9930325746536,Manhattan,Chelsea,N/A,Film,http://www.imdb.com/title/tt0116594/,West 20th bet Fifth and Sixth Ave,,Y,248,,Y
-William St. and Wall St.<br>Lower Manhattan,40.7064000000000,-74.0095000000000,Manhattan,Lower Manhattan,N/A,Film,http://imdb.com/title/tt0454848/,William Street toward Wall Street,,Y,249,,N
-W. Broadway and N. Moore St.<br>TriBeCa<br>Manhattan,40.7197000000000,-74.0059000000000,Manhattan,TriBeCa,N/A,Film,http://www.imdb.com/title/tt0110167/,West Broadway and North Moore Street,There is also a diner photo,Y,191,,Y
-Central Park<br>Manhattan,40.7747487271979,-73.9725083112716,Manhattan,Central Park,N/A,Film,http://www.imdb.com/title/tt0070238/,Central Park,,Y,108,,Y
+170th St. in Morrisania The Bronx,40.8387004363497,-73.9137303829193,The Bronx,The Bronx,The Subway,Film,http://www.imdb.com/title/tt0110091/,170th Street in Morrisania,Additional Image p193,Y,129,,Y
+W. 20th St.  Chelsea Manhattan,40.7405346630455,-73.9930325746536,Manhattan,Chelsea,N/A,Film,http://www.imdb.com/title/tt0116594/,West 20th bet Fifth and Sixth Ave,,Y,248,,Y
+William St. and Wall St. Lower Manhattan,40.7064000000000,-74.0095000000000,Manhattan,Lower Manhattan,N/A,Film,http://imdb.com/title/tt0454848/,William Street toward Wall Street,,Y,249,,N
+W. Broadway and N. Moore St. TriBeCa Manhattan,40.7197000000000,-74.0059000000000,Manhattan,TriBeCa,N/A,Film,http://www.imdb.com/title/tt0110167/,West Broadway and North Moore Street,There is also a diner photo,Y,191,,Y
+Central Park Manhattan,40.7747487271979,-73.9725083112716,Manhattan,Central Park,N/A,Film,http://www.imdb.com/title/tt0070238/,Central Park,,Y,108,,Y
 Burned-out blocks in the Bronx,40.8343820842596,-73.9199316501617,The Bronx,The Bronx,N/A,Film,http://imdb.com/title/tt0102174/,burned-out blocks in the Bronx,,Y,128,,N
-Bensonhurst<br>Brooklyn,40.6019000000000,-73.9938000000000,Brooklyn,Brooklyn,New York Moments,Film,http://www.imdb.com/title/tt0102175/,Bensonhurst,Not sure if this the correct photo,Y,203,,Y
-Strivers' Row<br>Harlem<br>Manhattan,40.8180396083858,-73.9442163705825,Manhattan,Harlem,N/A,Film,,"Strivers' Row, 138th st bet Powell and Douglass blvds",slide,N,,,Y
-Washington Square Park<br>West Village<br>Manhattan,40.7310718953207,-73.9968627691268,Manhattan,West Village,N/A,Film,http://www.imdb.com/title/tt0113540/,Washington Square Park,,Y,79,,N
-Rooftops<br>Lower Manhattan,40.7082142493220,-74.0136587619781,Manhattan,Lower Manhattan,N/A,Film,http://imdb.com/title/tt0048254/,Rooftops of lower Manhattan,,Y,44,,Y
-World Trade Center<br>Lower Manhattan,40.7125489417478,-74.0147799253463,Manhattan,Lower Manhattan,N/A,Film,http://www.imdb.com/title/tt0074751/,World Trade Center,,Y,90-91,,Y
-E. 6th St.<br>East Village<br>Manhattan,40.7255000000000,-73.9840000000000,Manhattan,East Village,N/A,Film,http://www.imdb.com/title/tt0264761/,East 6th Street,,Y,210,,Y
-World Trade Center<br>Lower Manhattan,40.7112640154449,-74.0112930536270,Manhattan,Lower Manhattan,N/A,Film,http://www.imdb.com/title/tt0067309/,World Trade Center,,Y,89,,N
-Hell's Kitchen<br>Ninth Ave.<br>Manhattan,40.7616096837484,-73.9903128147125,Manhattan,Midtown,N/A,Film,http://www.imdb.com/title/tt0067309/,Ninth Avenue in the 40s,,Y,104,,N
-123rd St.<br>Harlem<br>Manhattan,40.8009134398031,-73.9333695173263,Manhattan,Harlem,N/A,Film,http://www.imdb.com/title/tt0067309/,123rd Street near First Avenue,Additional Image on p88 of the book,Y,62,,Y
-60 Baxter St.<br>Lower Manhattan,40.7158470000000,-74.0005470000000,Manhattan,Lower Manhattan,N/A,TV,http://imdb.com/title/tt0069599/,Lincoln Center,Unusable need rescan,Y,257,,Y
-Lincoln Center<br>Upper West Side<br>Manhattan,40.7724087537612,-73.9837628602981,Manhattan,Upper West Side,N/A,TV,http://imdb.com/title/tt0069599/,Lincoln Center,Unusable need rescan,Y,257,,Y
-P.S. 6 (45 E. 81st St.)<br>Upper East Side<br>Manhattan,40.7775540000000,-73.9606940000000,Manhattan,Upper East Side,N/A,Film,http://www.imdb.com/title/tt0079417/,P.S. 6 - Madison Avenue and 81st street,,Y,157,,Y
-Worth St.<br>Lower Manhattan,40.7171000000000,-74.0063000000000,Manhattan,Lower Manhattan,N/A,TV,http://imdb.com/title/tt0098844/,"2 locations:
+Bensonhurst Brooklyn,40.6019000000000,-73.9938000000000,Brooklyn,Brooklyn,New York Moments,Film,http://www.imdb.com/title/tt0102175/,Bensonhurst,Not sure if this the correct photo,Y,203,,Y
+Strivers' Row Harlem Manhattan,40.8180396083858,-73.9442163705825,Manhattan,Harlem,N/A,Film,,"Strivers' Row, 138th st bet Powell and Douglass blvds",slide,N,,,Y
+Washington Square Park West Village Manhattan,40.7310718953207,-73.9968627691268,Manhattan,West Village,N/A,Film,http://www.imdb.com/title/tt0113540/,Washington Square Park,,Y,79,,N
+Rooftops Lower Manhattan,40.7082142493220,-74.0136587619781,Manhattan,Lower Manhattan,N/A,Film,http://imdb.com/title/tt0048254/,Rooftops of lower Manhattan,,Y,44,,Y
+World Trade Center Lower Manhattan,40.7125489417478,-74.0147799253463,Manhattan,Lower Manhattan,N/A,Film,http://www.imdb.com/title/tt0074751/,World Trade Center,,Y,90-91,,Y
+E. 6th St. East Village Manhattan,40.7255000000000,-73.9840000000000,Manhattan,East Village,N/A,Film,http://www.imdb.com/title/tt0264761/,East 6th Street,,Y,210,,Y
+World Trade Center Lower Manhattan,40.7112640154449,-74.0112930536270,Manhattan,Lower Manhattan,N/A,Film,http://www.imdb.com/title/tt0067309/,World Trade Center,,Y,89,,N
+Hell's Kitchen Ninth Ave. Manhattan,40.7616096837484,-73.9903128147125,Manhattan,Midtown,N/A,Film,http://www.imdb.com/title/tt0067309/,Ninth Avenue in the 40s,,Y,104,,N
+123rd St. Harlem Manhattan,40.8009134398031,-73.9333695173263,Manhattan,Harlem,N/A,Film,http://www.imdb.com/title/tt0067309/,123rd Street near First Avenue,Additional Image on p88 of the book,Y,62,,Y
+60 Baxter St. Lower Manhattan,40.7158470000000,-74.0005470000000,Manhattan,Lower Manhattan,N/A,TV,http://imdb.com/title/tt0069599/,Lincoln Center,Unusable need rescan,Y,257,,Y
+Lincoln Center Upper West Side Manhattan,40.7724087537612,-73.9837628602981,Manhattan,Upper West Side,N/A,TV,http://imdb.com/title/tt0069599/,Lincoln Center,Unusable need rescan,Y,257,,Y
+P.S. 6 (45 E. 81st St.) Upper East Side Manhattan,40.7775540000000,-73.9606940000000,Manhattan,Upper East Side,N/A,Film,http://www.imdb.com/title/tt0079417/,P.S. 6 - Madison Avenue and 81st street,,Y,157,,Y
+Worth St. Lower Manhattan,40.7171000000000,-74.0063000000000,Manhattan,Lower Manhattan,N/A,TV,http://imdb.com/title/tt0098844/,"2 locations:
 - Central Park
 - Worth Street",,Y,258-259,,Y
-Coney Island<br>Brooklyn,40.5746360217693,-73.9808070659637,Brooklyn,Brooklyn,N/A,Film,http://imdb.com/title/tt0046004/,Coney Island,,Y,45,,Y
-Christopher St. Station<br>Sheridan Square<br>Manhattan,40.7336084393223,-74.0027958154678,Manhattan,West Village,The Subway,Film,http://www.imdb.com/title/tt0412922/,Sheridan Square/Christopher Street Station,,Y,193,,Y
-Manhattan Bridge<br>Brooklyn,40.7050748775105,-73.9896100759506,Brooklyn,Brooklyn,N/A,Film,http://www.imdb.com/title/tt0061927/,Manhattan Bridge,poor quality,Y,54,,Y
-Washington Heights<br>Harlem<br>Manhattan,40.8322877445507,-73.9463353157043,Manhattan,Harlem,N/A,Film,http://www.imdb.com/title/tt0438205/,Washington Heights,,Y,245,,Y
-"Adjacent to Apollo Theater,<br>W. 125th St. between 7th and 8th Aves<br>Harlem, Manhattan",40.8100380000000,-73.9504500000000,Manhattan,Harlem,N/A,Film,http://www.imdb.com/title/tt0104797/,"Adjacent to Apollo Theater, 125th Street bet 7th and 8th Aves",,Y,102-103,,Y
-Midtown<br>Manhattan,40.7552,-73.9733,Manhattan,Midtown,N/A,Film,http://imdb.com/title/tt0464105/,N/A,,Y,245,N,N
-MoMA<br>W. 53rd St.<br>Manhattan,40.7611383525427,-73.9772021770477,Manhattan,Midtown,N/A,Film,http://www.imdb.com/title/tt0079522/,"MoMA, 53rd St bet 5th and 6th Aves",Additional image p116,Y,123,,Y
+Coney Island Brooklyn,40.5746360217693,-73.9808070659637,Brooklyn,Brooklyn,N/A,Film,http://imdb.com/title/tt0046004/,Coney Island,,Y,45,,Y
+Christopher St. Station Sheridan Square Manhattan,40.7336084393223,-74.0027958154678,Manhattan,West Village,The Subway,Film,http://www.imdb.com/title/tt0412922/,Sheridan Square/Christopher Street Station,,Y,193,,Y
+Manhattan Bridge Brooklyn,40.7050748775105,-73.9896100759506,Brooklyn,Brooklyn,N/A,Film,http://www.imdb.com/title/tt0061927/,Manhattan Bridge,poor quality,Y,54,,Y
+Washington Heights Harlem Manhattan,40.8322877445507,-73.9463353157043,Manhattan,Harlem,N/A,Film,http://www.imdb.com/title/tt0438205/,Washington Heights,,Y,245,,Y
+"Adjacent to Apollo Theater, W. 125th St. between 7th and 8th Aves Harlem, Manhattan",40.8100380000000,-73.9504500000000,Manhattan,Harlem,N/A,Film,http://www.imdb.com/title/tt0104797/,"Adjacent to Apollo Theater, 125th Street bet 7th and 8th Aves",,Y,102-103,,Y
+Midtown Manhattan,40.7552,-73.9733,Manhattan,Midtown,N/A,Film,http://imdb.com/title/tt0464105/,N/A,,Y,245,N,N
+MoMA W. 53rd St. Manhattan,40.7611383525427,-73.9772021770477,Manhattan,Midtown,N/A,Film,http://www.imdb.com/title/tt0079522/,"MoMA, 53rd St bet 5th and 6th Aves",Additional image p116,Y,123,,Y
 The Bronx,40.8397420000000,-73.8809230000000,The Bronx,The Bronx,N/A,Film,http://imdb.com/title/tt0048356/,Bronx store,,Y,40,,Y
 Manhattan,40.7572863136288,-74.0007412433624,Manhattan,Midtown,N/A,TV,http://imdb.com/title/tt0065317/,N/A,,Y,256,N,Y
-Hester St. and Baxter St.<br>Little Italy<br>Manhattan,40.7185000000000,-73.9988000000000,Manhattan,Lower Manhattan,N/A,Film,http://www.imdb.com/title/tt0070379/,Hester and Baxster Streets,,Y,186,,N
-Battery Park<br>Lower Manhattan,40.7043591450871,-74.0147262811660,Manhattan,Lower Manhattan,N/A,Film,http://www.imdb.com/title/tt0119654/,Battery Park,,Y,132,,N
-MacDougal St.<br>SoHo<br>Manhattan,40.7316491301789,-73.9991319179534,Manhattan,SoHo,N/A,Film,http://www.imdb.com/title/tt0119654/,"MacDougle Street, SoHo", JAMES CROSSED OUT,Y,132,,N
-Grand Central Station<br>87 E. 42nd St.<br>Manhattan,40.7524120000000,-73.9779790000000,Manhattan,Midtown,N/A,Film,http://www.imdb.com/title/tt0119654/,Grand Central Station - 42nd Street, JAMES CROSSED OUT,Y,132,,N
-Guggenheim Museum<br>E. 88th St. and Fifth Ave.<br>Manhattan,40.7825724148694,-73.9593493938446,Manhattan,Upper East Side,N/A,Film,http://www.imdb.com/title/tt0119654/,"Guggenheim Museum, 88th and Fifth",,Y,207,,Y
-1414 Broadway<br>Midtown<br>Manhattan,40.7537670000000,-73.9868660000000,Manhattan,Midtown,N/A,Film,http://www.imdb.com/title/tt0064665/,39th Street and Broadway,Additional Image on p58-59 of the book,Y,235,,Y
-Times Square<br>Manhattan,40.7581965201794,-73.9851200580596,Manhattan,Times Square,N/A,Film,http://www.imdb.com/title/tt0064665/,Times Square,Additional Image on p96,Y,234,,Y
-Fifth Ave. and 66th St.<br>Central Park<br>Manhattan,40.7687000000000,-73.9698000000000,Manhattan,Central Park,N/A,Film,http://imdb.com/title/tt0059448/,Central Park,,Y,51,,Y
+Hester St. and Baxter St. Little Italy Manhattan,40.7185000000000,-73.9988000000000,Manhattan,Lower Manhattan,N/A,Film,http://www.imdb.com/title/tt0070379/,Hester and Baxster Streets,,Y,186,,N
+Battery Park Lower Manhattan,40.7043591450871,-74.0147262811660,Manhattan,Lower Manhattan,N/A,Film,http://www.imdb.com/title/tt0119654/,Battery Park,,Y,132,,N
+MacDougal St. SoHo Manhattan,40.7316491301789,-73.9991319179534,Manhattan,SoHo,N/A,Film,http://www.imdb.com/title/tt0119654/,"MacDougle Street, SoHo", JAMES CROSSED OUT,Y,132,,N
+Grand Central Station 87 E. 42nd St. Manhattan,40.7524120000000,-73.9779790000000,Manhattan,Midtown,N/A,Film,http://www.imdb.com/title/tt0119654/,Grand Central Station - 42nd Street, JAMES CROSSED OUT,Y,132,,N
+Guggenheim Museum E. 88th St. and Fifth Ave. Manhattan,40.7825724148694,-73.9593493938446,Manhattan,Upper East Side,N/A,Film,http://www.imdb.com/title/tt0119654/,"Guggenheim Museum, 88th and Fifth",,Y,207,,Y
+1414 Broadway Midtown Manhattan,40.7537670000000,-73.9868660000000,Manhattan,Midtown,N/A,Film,http://www.imdb.com/title/tt0064665/,39th Street and Broadway,Additional Image on p58-59 of the book,Y,235,,Y
+Times Square Manhattan,40.7581965201794,-73.9851200580596,Manhattan,Times Square,N/A,Film,http://www.imdb.com/title/tt0064665/,Times Square,Additional Image on p96,Y,234,,Y
+Fifth Ave. and 66th St. Central Park Manhattan,40.7687000000000,-73.9698000000000,Manhattan,Central Park,N/A,Film,http://imdb.com/title/tt0059448/,Central Park,,Y,51,,Y
 Brooklyn Bridge,40.7064575206375,-73.9972758293151,Brooklyn,Brooklyn,N/A,Film,http://www.imdb.com/title/tt0100168/,Brooklyn Bridge,Image p225 not of brooklyn bridge,Y,,,Y
 Subway ,40.7186072791303,-73.9883601665496,Manhattan,Lower East Side,The Subway,Film,http://imdb.com/title/tt0082783/,Subway ,needs to be reversed,Y,158,,Y
-Grant's Tomb<br>Harlem<br>Manhattan,40.8127049032854,-73.9631044864654,Manhattan,Harlem,N/A,Film,http://www.imdb.com/title/tt0102526/,Harlem,,N,,,N
-MacDougal St.<br>West Village<br>Manhattan,40.7293645516419,-74.0010362863540,Manhattan,West Village,N/A,Film,http://imdb.com/title/tt0074963/,MacDougal Street,,Y, 76-77,,Y
-Roosevelt Island Tramway<br>Manhattan,40.7583590557521,-73.9569461345672,Manhattan,Roosevelt Island,N/A,Film,http://www.imdb.com/title/tt0082817/,Roosevelt Island Tramway,,Y,124,,Y
-New York City Bus<br>Manhattan,40.7226892304649,-73.9889395236969,Manhattan,Lower East Side,N/A,Film,http://www.imdb.com/title/tt0063356/,44th St bet. 8th Avenue and Broadway,Image p94 not of 8th Ave,Y,,,Y
-Carmines<br>200 W. 44th St. <br>Manhattan,40.7573675825775,-73.9867079257965,Manhattan,Times Square,N/A,Film,http://www.imdb.com/title/tt0063356/,44th St bet. 8th Avenue and Broadway,Image p94 not of 8th Ave,Y,,,Y
-Grand Central Terminal<br>Midtown<br>Manhattan,40.7531089558720,-73.9769876003265,Manhattan,Midtown,N/A,Film,http://imdb.com/title/tt0053125/,Grand Central Station,,Y,42,,N
-Little Italy<br>Manhattan,40.7181356431236,-73.9979088306427,Manhattan,Lower East Side,N/A,Film,http://imdb.com/title/tt0041716/,"3 locations:
+Grant's Tomb Harlem Manhattan,40.8127049032854,-73.9631044864654,Manhattan,Harlem,N/A,Film,http://www.imdb.com/title/tt0102526/,Harlem,,N,,,N
+MacDougal St. West Village Manhattan,40.7293645516419,-74.0010362863540,Manhattan,West Village,N/A,Film,http://imdb.com/title/tt0074963/,MacDougal Street,,Y, 76-77,,Y
+Roosevelt Island Tramway Manhattan,40.7583590557521,-73.9569461345672,Manhattan,Roosevelt Island,N/A,Film,http://www.imdb.com/title/tt0082817/,Roosevelt Island Tramway,,Y,124,,Y
+New York City Bus Manhattan,40.7226892304649,-73.9889395236969,Manhattan,Lower East Side,N/A,Film,http://www.imdb.com/title/tt0063356/,44th St bet. 8th Avenue and Broadway,Image p94 not of 8th Ave,Y,,,Y
+Carmines 200 W. 44th St.  Manhattan,40.7573675825775,-73.9867079257965,Manhattan,Times Square,N/A,Film,http://www.imdb.com/title/tt0063356/,44th St bet. 8th Avenue and Broadway,Image p94 not of 8th Ave,Y,,,Y
+Grand Central Terminal Midtown Manhattan,40.7531089558720,-73.9769876003265,Manhattan,Midtown,N/A,Film,http://imdb.com/title/tt0053125/,Grand Central Station,,Y,42,,N
+Little Italy Manhattan,40.7181356431236,-73.9979088306427,Manhattan,Lower East Side,N/A,Film,http://imdb.com/title/tt0041716/,"3 locations:
 - Upper Bay
 - Little Italy 
 - Skating rink at Rockefeller Center",,Y,36-37,,Y
-"Hoboken, New Jersey<br>View of Manhattan",40.7471269126642,-74.0249776840210,Manhattan,New York Harbor,N/A,Film,http://imdb.com/title/tt0047296/,"Hoboken, New Jersey",,Y,40-41,,Y
-Carnegie Deli<br>Seventh Ave. and W. 55th St.<br>Manhattan,40.7642000000000,-73.9810000000000,Manhattan,Midtown,N/A,Film,http://www.imdb.com/title/tt0117247/,Carnegie Deli - 7th Avenue at 55th Street,,Y,244,,N
-Near Bethesda Fountain<br>Central Park<br>Manhattan,40.7742612395281,-73.9705234766006,Manhattan,Central Park,N/A,Film,http://www.imdb.com/title/tt0117247/,Central Park,,Y,147,,N
-World Trade Center<br>Lower Manhattan,40.7129230295553,-74.0131491422653,Manhattan,Lower Manhattan,N/A,Film,http://imdb.com/title/tt0102609/,World Trade Center,,Y,92,,N
-Lower East Side<br>Manhattan,40.7205700000000,-73.9859530000000,Manhattan,Lower East Side,N/A,Film,http://www.imdb.com/title/tt0311648/,Lower East Side,,N,,,Y
-Rockefeller Center<br>600 Fifth Ave.<br>Manhattan,40.7576030000000,-73.9781010000000,Manhattan,Midtown,N/A,Film,http://www.imdb.com/title/tt0067589/,Rockefeller Center,,N,,,Y
-Dean and Deluca<br>SoHo<br>Manhattan,40.7253670000000,-73.9997020000000,Manhattan,SoHo,N/A,Film,http://www.imdb.com/title/tt0387514/,"SoHo, Dean and Deluca",,Y,155,,N
-E. 11th St. between Ave. A and Ave. B<br>East Village<br>Manhattan,40.7279579927492,-73.9806514978408,Manhattan,East Village,Historic Recreations,Film,http://www.imdb.com/title/tt0082970/,11th Street bet Avenue A and Avenue B,,Y,150,,Y
-Winter Garden Theater<br>1634 Broadway<br>Manhattan,40.7615280000000,-73.9838020000000,Manhattan,Midtown,Chases,Film,http://www.imdb.com/title/tt0073620/,"Winter Garden Theater, Saks Fifth Avenue",,Y,86-87,,Y
-Coney Island Boardwalk<br>Brooklyn,40.5722319682892,-73.9839559793472,Brooklyn,Brooklyn,N/A,Film,http://www.imdb.com/title/tt0180093/,Coney Island/Brighton Beach Boardwalk,poor quality,Y,134-135,,Y
-Fifth Ave. and E. 62nd St.<br>Upper East Side<br>Manhattan,40.7661000000000,-73.9717000000000,Manhattan,Upper East Side,N/A,Film,http://www.imdb.com/title/tt0063522/,Phone Booth: Fifth Ave and 62nd Street,,Y,57,,Y
-"The Dakota<br>72nd St. and Central Park West<br>Manhattan
+"Hoboken, New Jersey View of Manhattan",40.7471269126642,-74.0249776840210,Manhattan,New York Harbor,N/A,Film,http://imdb.com/title/tt0047296/,"Hoboken, New Jersey",,Y,40-41,,Y
+Carnegie Deli Seventh Ave. and W. 55th St. Manhattan,40.7642000000000,-73.9810000000000,Manhattan,Midtown,N/A,Film,http://www.imdb.com/title/tt0117247/,Carnegie Deli - 7th Avenue at 55th Street,,Y,244,,N
+Near Bethesda Fountain Central Park Manhattan,40.7742612395281,-73.9705234766006,Manhattan,Central Park,N/A,Film,http://www.imdb.com/title/tt0117247/,Central Park,,Y,147,,N
+World Trade Center Lower Manhattan,40.7129230295553,-74.0131491422653,Manhattan,Lower Manhattan,N/A,Film,http://imdb.com/title/tt0102609/,World Trade Center,,Y,92,,N
+Lower East Side Manhattan,40.7205700000000,-73.9859530000000,Manhattan,Lower East Side,N/A,Film,http://www.imdb.com/title/tt0311648/,Lower East Side,,N,,,Y
+Rockefeller Center 600 Fifth Ave. Manhattan,40.7576030000000,-73.9781010000000,Manhattan,Midtown,N/A,Film,http://www.imdb.com/title/tt0067589/,Rockefeller Center,,N,,,Y
+Dean and Deluca SoHo Manhattan,40.7253670000000,-73.9997020000000,Manhattan,SoHo,N/A,Film,http://www.imdb.com/title/tt0387514/,"SoHo, Dean and Deluca",,Y,155,,N
+E. 11th St. between Ave. A and Ave. B East Village Manhattan,40.7279579927492,-73.9806514978408,Manhattan,East Village,Historic Recreations,Film,http://www.imdb.com/title/tt0082970/,11th Street bet Avenue A and Avenue B,,Y,150,,Y
+Winter Garden Theater 1634 Broadway Manhattan,40.7615280000000,-73.9838020000000,Manhattan,Midtown,Chases,Film,http://www.imdb.com/title/tt0073620/,"Winter Garden Theater, Saks Fifth Avenue",,Y,86-87,,Y
+Coney Island Boardwalk Brooklyn,40.5722319682892,-73.9839559793472,Brooklyn,Brooklyn,N/A,Film,http://www.imdb.com/title/tt0180093/,Coney Island/Brighton Beach Boardwalk,poor quality,Y,134-135,,Y
+Fifth Ave. and E. 62nd St. Upper East Side Manhattan,40.7661000000000,-73.9717000000000,Manhattan,Upper East Side,N/A,Film,http://www.imdb.com/title/tt0063522/,Phone Booth: Fifth Ave and 62nd Street,,Y,57,,Y
+"The Dakota 72nd St. and Central Park West Manhattan
 ",40.7763900000000,-73.9760690000000,Manhattan,Upper West Side,N/A,Film,http://www.imdb.com/title/tt0063522/,"The Dakota, 72nd Street and Central Park West",,Y,69,,Y
-"The Dakota<br>72nd St. and Central Park West<br>Manhattan
+"The Dakota 72nd St. and Central Park West Manhattan
 ",40.7765605250179,-73.9761507511138,Manhattan,Upper West Side,N/A,Film,http://www.imdb.com/title/tt0063522/,"The Dakota, 72nd Street and Central Park West",,Y,246,,Y
-4th Ave. and 86th St.<br>Bay Ridge<br>Brooklyn,40.6228000000000,-74.0284000000000,Brooklyn,Brooklyn,The Subway,Film,http://www.imdb.com/title/tt0076666/,"Fourth Avenue and 86th Street, Bay Ridge",Additional image p192,Y,115,,Y
-Subway Car<br>Brooklyn,40.6260702046750,-73.9970237016677,Brooklyn,Brooklyn,The Subway,Film,http://www.imdb.com/title/tt0076666/,"Fourth Avenue and 86th Street, Bay Ridge",,Y,115,,Y
-Washington Square Park<br>West Village<br>Manhattan,40.7310718953207,-73.9992874860763,Manhattan,West Village,N/A,Film,http://www.imdb.com/title/tt0108065/,Washington Square Park,,Y,79,,Y
-"Williamsburg Tenaments<br>Brooklyn
+4th Ave. and 86th St. Bay Ridge Brooklyn,40.6228000000000,-74.0284000000000,Brooklyn,Brooklyn,The Subway,Film,http://www.imdb.com/title/tt0076666/,"Fourth Avenue and 86th Street, Bay Ridge",Additional image p192,Y,115,,Y
+Subway Car Brooklyn,40.6260702046750,-73.9970237016677,Brooklyn,Brooklyn,The Subway,Film,http://www.imdb.com/title/tt0076666/,"Fourth Avenue and 86th Street, Bay Ridge",,Y,115,,Y
+Washington Square Park West Village Manhattan,40.7310718953207,-73.9992874860763,Manhattan,West Village,N/A,Film,http://www.imdb.com/title/tt0108065/,Washington Square Park,,Y,79,,Y
+"Williamsburg Tenaments Brooklyn
 ",40.7075798804205,-73.9652019739151,Brooklyn,Brooklyn,N/A,Film,http://www.imdb.com/title/tt0070666/,Williamsburgh teNaments,poor quality,Y,60,,Y
-Kaufman Astoria Studios<br>Astoria<br>Queens,40.7575990000000,-73.9236710000000,Queens,Queens,N/A,TV,http://www.imdb.com/title/tt0063951/,Kaufman Astoria Studios,poor quality,Y,265,,Y
-Magnolia Bakery<br>401 Bleecker St.<br>Manhattan,40.7358034474271,-74.0050166845321,Manhattan,West Village,N/A,TV,http://www.imdb.com/title/tt0159206/,Magnolia Bakery: Bleeker Street,We have another photo,Y,267,,Y
-MoMA<br>W. 53rd St.<br>Manhattan,40.7608458004581,-73.9764726161956,Manhattan,Midtown,N/A,Film,http://imdb.com/title/tt0053270/,N/A,,Y,44,N,Y
-Seventh Ave. and W. 42nd St.<br>Times Square<br>Manhattan,40.7560000000000,-73.9870000000000,Manhattan,Times Square,N/A,Film,http://www.imdb.com/title/tt0067741/,7th avenue at 42nd Street,,Y,106,,N
-New York County Courthouse<br>60 Centre St.<br>Lower Manhattan,40.7144510000000,-74.0023290000000,Manhattan,Lower Manhattan,N/A,Film,http://www.imdb.com/title/tt0162650/,New York County Courthouse: 60 Centre St,slide,Y,214,,Y
-McHales Pub<br>W. 46th and Eighth Ave.<br>Manhattan,40.7597405920739,-73.9875447750091,Manhattan,Midtown,N/A,Film,http://www.imdb.com/title/tt0117628/,"McHales Pub, 46th and Columbus",poor quality,Y,243,,Y
-Ansonia Hotel<br>2109 Broadway<br>Manhattan,40.7799560000000,-73.9818810000000,Manhattan,Upper West Side,New York Landmarks,Film,http://www.imdb.com/title/tt0105414/,Ansonia Hotel - 30th Street bet 7th and 8th Aves,,Y,170,,Y
-Central Park<br>Manhattan,40.7715068669966,-73.9690428972244,Manhattan,Central Park,N/A,Film,http://www.imdb.com/title/tt0108149/,NEAR Fifth Ave & 70th St. in Central Park,,Y,146,,Y
-Metropolitan Museum of Art<br>Fifth Ave. at 82nd St.,40.7790790856402,-73.9626109600067,Manhattan,Upper East Side,New York Landmarks,Film,http://www.imdb.com/title/tt0108149/,Metropolitan Museum of Art - Fifth Avenue at 82nd St,Additional Image on p5 of the book,Y,168,,N
-"W. 47th St., near Pier 87<br>Manhattan",40.7646163731163,-73.9974367618560,Manhattan,Midtown,Historic Recreations,Film,http://www.imdb.com/title/tt0117665/,"West 47th Street, near Pier 87",We have another photo,Y,151,,Y
-"W. 47th St., near Pier 87<br>Manhattan",40.7647463890479,-73.9979088306427,Manhattan,Midtown,Historic Recreations,Film,http://www.imdb.com/title/tt0117665/,"West 47th Street, near Pier 87",We have another photo,Y,151,,Y
-Lower East Side<br>Manhattan,40.7185400000000,-73.9891800000000,Manhattan,Lower East Side,N/A,Film,http://www.imdb.com/title/tt0084698/,Lower East Side,,Y,189,,Y
-Prospect Park and 16th St.<br>Windsor Terrace<br>Brooklyn,40.6572584437698,-73.9746111631393,Brooklyn,Brooklyn,N/A,Film,http://www.imdb.com/title/tt0114478/,Prospect Park West and 16th Street in Windsor Terrace,,Y,176,,Y
-101 Rugby Rd.<br>Brooklyn,40.6473340000000,-73.9663730000000,Brooklyn,Brooklyn,N/A,Film,http://www.imdb.com/title/tt0084707/,"101 Rugby Road, Brooklyn, NY",poor quality,Y,179,,Y
-Midtown<br>Manhattan,40.7525887995655,-73.9797556400299,Manhattan,Midtown,N/A,Film,http://www.imdb.com/title/tt0145487/,,,Y,194,N,Y
-Midtown<br>Manhattan,40.7566849203205,-73.9785540103912,Manhattan,Midtown,N/A,Film,http://www.imdb.com/title/tt0145487/,,,Y,194,N,Y
-Sunnyside<br>Queens,40.7482323307470,-73.9139986038208,Queens,Queens,N/A,Film,http://www.imdb.com/title/tt0145487/,Sunnyside,,Y,194,,Y
-Pier 17<br>Manhattan,40.7046844789603,-74.0020716190338,Manhattan,Lower Manhattan,N/A,Film,http://www.imdb.com/title/tt0088161/,Pier 17,poor quality,Y,131,,Y
-Hell's Kitchen<br>Manhattan,40.7603744638357,-73.9912569522857,Manhattan,Upper West Side,N/A,Film,http://imdb.com/title/tt0100685/,Hell's Kitchen,,Y,141,,Y
-Edgecomb Ave.<br>Harlem<br>Manhattan,40.8294302441349,-73.9396405220031,Manhattan,Harlem,N/A,Film,http://www.imdb.com/title/tt0107079/,"Edgecomb Avenue, Harlem",,Y,100-101,,N
-"CBGB's <br>315 Bowery (at Bleecker)<br>East Village, Manhattan",40.7250340000000,-73.9920670000000,Manhattan,SoHo,N/A,Film,http://www.imdb.com/title/tt0162677/,CBGB's 315 Bowery,,Y,188,,Y
-Tiffany & Co.<br>727 Fifth Ave.<br>Manhattan,40.7627961233669,-73.9738762378692,Manhattan,Midtown,N/A,Film,http://www.imdb.com/title/tt0256415/,Tiffany & Co. - 727 Fifth Avenue at 57th Street,,Y,212,,Y
-Remsen St. and Montague Terrace<br>Brooklyn Heights<br>Brooklyn,40.6950000000000,-73.9977000000000,Brooklyn,Brooklyn,N/A,Film,http://www.imdb.com/title/tt0063661/,Brooklyn Height Promenade: Remsen St. and Montague Terrace,,N,,,N
+Kaufman Astoria Studios Astoria Queens,40.7575990000000,-73.9236710000000,Queens,Queens,N/A,TV,http://www.imdb.com/title/tt0063951/,Kaufman Astoria Studios,poor quality,Y,265,,Y
+Magnolia Bakery 401 Bleecker St. Manhattan,40.7358034474271,-74.0050166845321,Manhattan,West Village,N/A,TV,http://www.imdb.com/title/tt0159206/,Magnolia Bakery: Bleeker Street,We have another photo,Y,267,,Y
+MoMA W. 53rd St. Manhattan,40.7608458004581,-73.9764726161956,Manhattan,Midtown,N/A,Film,http://imdb.com/title/tt0053270/,N/A,,Y,44,N,Y
+Seventh Ave. and W. 42nd St. Times Square Manhattan,40.7560000000000,-73.9870000000000,Manhattan,Times Square,N/A,Film,http://www.imdb.com/title/tt0067741/,7th avenue at 42nd Street,,Y,106,,N
+New York County Courthouse 60 Centre St. Lower Manhattan,40.7144510000000,-74.0023290000000,Manhattan,Lower Manhattan,N/A,Film,http://www.imdb.com/title/tt0162650/,New York County Courthouse: 60 Centre St,slide,Y,214,,Y
+McHales Pub W. 46th and Eighth Ave. Manhattan,40.7597405920739,-73.9875447750091,Manhattan,Midtown,N/A,Film,http://www.imdb.com/title/tt0117628/,"McHales Pub, 46th and Columbus",poor quality,Y,243,,Y
+Ansonia Hotel 2109 Broadway Manhattan,40.7799560000000,-73.9818810000000,Manhattan,Upper West Side,New York Landmarks,Film,http://www.imdb.com/title/tt0105414/,Ansonia Hotel - 30th Street bet 7th and 8th Aves,,Y,170,,Y
+Central Park Manhattan,40.7715068669966,-73.9690428972244,Manhattan,Central Park,N/A,Film,http://www.imdb.com/title/tt0108149/,NEAR Fifth Ave & 70th St. in Central Park,,Y,146,,Y
+Metropolitan Museum of Art Fifth Ave. at 82nd St.,40.7790790856402,-73.9626109600067,Manhattan,Upper East Side,New York Landmarks,Film,http://www.imdb.com/title/tt0108149/,Metropolitan Museum of Art - Fifth Avenue at 82nd St,Additional Image on p5 of the book,Y,168,,N
+"W. 47th St., near Pier 87 Manhattan",40.7646163731163,-73.9974367618560,Manhattan,Midtown,Historic Recreations,Film,http://www.imdb.com/title/tt0117665/,"West 47th Street, near Pier 87",We have another photo,Y,151,,Y
+"W. 47th St., near Pier 87 Manhattan",40.7647463890479,-73.9979088306427,Manhattan,Midtown,Historic Recreations,Film,http://www.imdb.com/title/tt0117665/,"West 47th Street, near Pier 87",We have another photo,Y,151,,Y
+Lower East Side Manhattan,40.7185400000000,-73.9891800000000,Manhattan,Lower East Side,N/A,Film,http://www.imdb.com/title/tt0084698/,Lower East Side,,Y,189,,Y
+Prospect Park and 16th St. Windsor Terrace Brooklyn,40.6572584437698,-73.9746111631393,Brooklyn,Brooklyn,N/A,Film,http://www.imdb.com/title/tt0114478/,Prospect Park West and 16th Street in Windsor Terrace,,Y,176,,Y
+101 Rugby Rd. Brooklyn,40.6473340000000,-73.9663730000000,Brooklyn,Brooklyn,N/A,Film,http://www.imdb.com/title/tt0084707/,"101 Rugby Road, Brooklyn, NY",poor quality,Y,179,,Y
+Midtown Manhattan,40.7525887995655,-73.9797556400299,Manhattan,Midtown,N/A,Film,http://www.imdb.com/title/tt0145487/,,,Y,194,N,Y
+Midtown Manhattan,40.7566849203205,-73.9785540103912,Manhattan,Midtown,N/A,Film,http://www.imdb.com/title/tt0145487/,,,Y,194,N,Y
+Sunnyside Queens,40.7482323307470,-73.9139986038208,Queens,Queens,N/A,Film,http://www.imdb.com/title/tt0145487/,Sunnyside,,Y,194,,Y
+Pier 17 Manhattan,40.7046844789603,-74.0020716190338,Manhattan,Lower Manhattan,N/A,Film,http://www.imdb.com/title/tt0088161/,Pier 17,poor quality,Y,131,,Y
+Hell's Kitchen Manhattan,40.7603744638357,-73.9912569522857,Manhattan,Upper West Side,N/A,Film,http://imdb.com/title/tt0100685/,Hell's Kitchen,,Y,141,,Y
+Edgecomb Ave. Harlem Manhattan,40.8294302441349,-73.9396405220031,Manhattan,Harlem,N/A,Film,http://www.imdb.com/title/tt0107079/,"Edgecomb Avenue, Harlem",,Y,100-101,,N
+"CBGB's  315 Bowery (at Bleecker) East Village, Manhattan",40.7250340000000,-73.9920670000000,Manhattan,SoHo,N/A,Film,http://www.imdb.com/title/tt0162677/,CBGB's 315 Bowery,,Y,188,,Y
+Tiffany & Co. 727 Fifth Ave. Manhattan,40.7627961233669,-73.9738762378692,Manhattan,Midtown,N/A,Film,http://www.imdb.com/title/tt0256415/,Tiffany & Co. - 727 Fifth Avenue at 57th Street,,Y,212,,Y
+Remsen St. and Montague Terrace Brooklyn Heights Brooklyn,40.6950000000000,-73.9977000000000,Brooklyn,Brooklyn,N/A,Film,http://www.imdb.com/title/tt0063661/,Brooklyn Height Promenade: Remsen St. and Montague Terrace,,N,,,N
 Manhattan ,40.7577983063470,-73.9755660295486,Manhattan,Midtown,N/A,Film,http://imdb.com/title/tt0051036/,Manhattan ,,Y,43,N,Y
-E. 12th St. and Third Ave.<br>East Village<br>Manhattan,40.7320000000000,-73.9882000000000,Manhattan,East Village,N/A,Film,http://www.imdb.com/title/tt0075314/,12th Street off Third Avenue,poor quality,Y,98-99,,Y
-Bellmore Cafeteria<br>Park Ave. South and E. 28th St.<br>Manhattan,40.7433500000000,-73.9840500000000,Manhattan,Midtown,N/A,Film,http://www.imdb.com/title/tt0075314/,"Bellmore Cafeteria, Park Avenue South at 28th St",poor quality,Y,120,,Y
-Columbus Ave. and E. 86th St.<br>Upper West Side<br>Manhattan,40.7865000000000,-73.9722000000000,Manhattan,Upper West Side,N/A,Film,http://www.imdb.com/title/tt0075314/,Near Columbus Ave and 86th Street,Not sure if this the correct photo,Y,112-113,,Y
-E. 91st St. and Fifth Ave.<br>Upper East Side<br>Manhattan,40.7847000000000,-73.9581000000000,Manhattan,Upper East Side,N/A,Film,http://www.imdb.com/title/tt0066767/,91st street and Fifth Avenue,Has FPO in lower left,Y,130,,Y
-Marine Midlane Bank<br>140 Broadway<br>Lower Manhattan,40.7089720000000,-74.0105180000000,Manhattan,Lower Manhattan,N/A,Film,http://www.imdb.com/title/tt0064036/,Marine Midlane Bank building 140 Broadway bet Liberty st and Ceder st,,Y,70,,Y
-Central Park<br>Manhattan,40.7732618786226,-73.9711081981659,Manhattan,Central Park,N/A,Film,http://www.imdb.com/title/tt0064036/,Central Park near Naumberg Bandshell seating,poor quality,Y,142,,Y
+E. 12th St. and Third Ave. East Village Manhattan,40.7320000000000,-73.9882000000000,Manhattan,East Village,N/A,Film,http://www.imdb.com/title/tt0075314/,12th Street off Third Avenue,poor quality,Y,98-99,,Y
+Bellmore Cafeteria Park Ave. South and E. 28th St. Manhattan,40.7433500000000,-73.9840500000000,Manhattan,Midtown,N/A,Film,http://www.imdb.com/title/tt0075314/,"Bellmore Cafeteria, Park Avenue South at 28th St",poor quality,Y,120,,Y
+Columbus Ave. and E. 86th St. Upper West Side Manhattan,40.7865000000000,-73.9722000000000,Manhattan,Upper West Side,N/A,Film,http://www.imdb.com/title/tt0075314/,Near Columbus Ave and 86th Street,Not sure if this the correct photo,Y,112-113,,Y
+E. 91st St. and Fifth Ave. Upper East Side Manhattan,40.7847000000000,-73.9581000000000,Manhattan,Upper East Side,N/A,Film,http://www.imdb.com/title/tt0066767/,91st street and Fifth Avenue,Has FPO in lower left,Y,130,,Y
+Marine Midlane Bank 140 Broadway Lower Manhattan,40.7089720000000,-74.0105180000000,Manhattan,Lower Manhattan,N/A,Film,http://www.imdb.com/title/tt0064036/,Marine Midlane Bank building 140 Broadway bet Liberty st and Ceder st,,Y,70,,Y
+Central Park Manhattan,40.7732618786226,-73.9711081981659,Manhattan,Central Park,N/A,Film,http://www.imdb.com/title/tt0064036/,Central Park near Naumberg Bandshell seating,poor quality,Y,142,,Y
 Forest Hills,40.7294030000000,-73.8454550000000,Queens,Queens,New York Moments,Film,http://imdb.com/title/tt0112461/,N/A,poor quality,Y,199,N,Y
-E. 74th St. and Park Ave.<br>Upper East Side<br>Manhattan,40.7724500000000,-73.9629000000000,Manhattan,Upper East Side,N/A,Film,http://www.imdb.com/title/tt0099165/,74th street and Park Avenue,Additional image p126,Y,227,,N
-Ellis Island<br>New York Harbor,40.6973640824354,-74.0411996841430,Manhattan,New York Harbor,N/A,Film,http://www.imdb.com/title/tt0087004/,New York Bay - Ellis Island,poor quality,Y,159,,Y
-W. 46th St. and Eighth Ave.<br>Midtown<br>Manhattan,40.7598000000000,-73.9879000000000,Manhattan,Midtown,N/A,Film,http://www.imdb.com/title/tt0112585/,46th and 8th Avenue,slide,N,,,Y
-E. 6th St. between First Ave. & Ave. A<br>East Village<br>Manhattan,40.7259741250466,-73.9851897954940,Manhattan,East Village,N/A,Film,http://imdb.com/title/tt0087089/,6th St. between 1st Ave and Avenue A,Mentioned in Medjuck quote p181,Y,,,N
+E. 74th St. and Park Ave. Upper East Side Manhattan,40.7724500000000,-73.9629000000000,Manhattan,Upper East Side,N/A,Film,http://www.imdb.com/title/tt0099165/,74th street and Park Avenue,Additional image p126,Y,227,,N
+Ellis Island New York Harbor,40.6973640824354,-74.0411996841430,Manhattan,New York Harbor,N/A,Film,http://www.imdb.com/title/tt0087004/,New York Bay - Ellis Island,poor quality,Y,159,,Y
+W. 46th St. and Eighth Ave. Midtown Manhattan,40.7598000000000,-73.9879000000000,Manhattan,Midtown,N/A,Film,http://www.imdb.com/title/tt0112585/,46th and 8th Avenue,slide,N,,,Y
+E. 6th St. between First Ave. & Ave. A East Village Manhattan,40.7259741250466,-73.9851897954940,Manhattan,East Village,N/A,Film,http://imdb.com/title/tt0087089/,6th St. between 1st Ave and Avenue A,Mentioned in Medjuck quote p181,Y,,,N
 Manhattan Bridge,40.7094016415368,-73.9918309450149,Manhattan,Lower Manhattan,Chases,Film,http://www.imdb.com/title/tt0109493/,Manhattan Bridge,,Y,83,,Y
-Chinatown<br>Manhattan,40.7150048711311,-73.9988690614700,Manhattan,Chinatown,Rooftops,Film,http://www.imdb.com/title/tt0118971/,Chinatown,Additional image p233,Y,226,,Y
-Grand Central Station<br>87 E. 42nd St.<br>Manhattan,40.7527025841052,-73.9772665500640,Manhattan,Midtown,New York Landmarks,Film,http://www.imdb.com/title/tt0101889/,Grand Central Station - 42nd Street,,Y,170-171,,Y
-Bay 50th St. Station<br>Brooklyn,40.5886022710420,-73.9837574958801,Brooklyn,Brooklyn,Chases,Film,http://www.imdb.com/title/tt0067116/,86th Street from Bay 50th St. Station to 62nd St Station,Additional image on p61,Y,84-85,,Y
-E. 6th St. and Ave. A<br>East Village<br>Manhattan,40.7253968409595,-73.9837843179702,Manhattan,East Village,N/A,Film,http://www.imdb.com/title/tt0071562/,,,Y,149,,Y
-358 Chauncy St.<br>Bensonhurst<br>Brooklyn,40.6815010000000,-73.9187530000000,Brooklyn,Brooklyn,N/A,TV,http://www.imdb.com/title/tt0042114/,"358 Chauncy Street, Bensonhurst",,Y,254-255,,Y
-W. 14th St. and Hudson St.<br>West Village<br>Manhattan,40.7405915656527,-74.0054619312286,Manhattan ,West Village,N/A,Film,http://imdb.com/title/tt0274558/,Greenwich Village flower shop,,Y,243,,Y
-United Nations<br>First Ave. and E. 45th St.<br>Manhattan,40.7506706880159,-73.9679539203643,Manhattan,Midtown,N/A,Film,http://www.imdb.com/title/tt0373926/,United nations,2 other pix,Y,216-217,,Y
-51 Prospect Pl.<br>Brooklyn,40.6796209846076,-73.9760380983352,Brooklyn,Brooklyn,N/A,Film,http://www.imdb.com/title/tt0065963/,"51 Prospect Place, off Sixth Avenue",poor quality,Y,172-173,,Y
-51 Prospect Pl.<br>Brooklyn,40.6797280000000,-73.9759740000000,Brooklyn,Brooklyn,N/A,Film,http://www.imdb.com/title/tt0065963/,"51 Prospect Place, off Sixth Avenue",poor quality,Y,172-173,,Y
-Ed Sullivan Theatre<br>1697 Broadway<br>Manhattan,40.7637190000000,-73.9828330000000,Manhattan,Midtown,N/A,TV,http://www.imdb.com/title/tt0106053/,1697 Broadway,,Y,264,,N
-Third Ave. from E. 55th to 110th St.<br>Upper East Side to E. Harlem<br>Manhattan,40.7590000000000,-73.9685000000000,Manhattan,Upper East Side,N/A,Film,http://imdb.com/title/tt0037884/,"Third Avenue from 55th to 110th Street,",,Y,32,,N
-Williamsburg Bridge<br>Brooklyn,40.7113209430845,-73.9645743370056,Brooklyn,Brooklyn,N/A,Film,http://imdb.com/title/tt0040636/,Williamsburg Bridge,We have another photo,Y,34,,Y
-"E. 26th St. near Second Ave.<br>Manhattan
+Chinatown Manhattan,40.7150048711311,-73.9988690614700,Manhattan,Chinatown,Rooftops,Film,http://www.imdb.com/title/tt0118971/,Chinatown,Additional image p233,Y,226,,Y
+Grand Central Station 87 E. 42nd St. Manhattan,40.7527025841052,-73.9772665500640,Manhattan,Midtown,New York Landmarks,Film,http://www.imdb.com/title/tt0101889/,Grand Central Station - 42nd Street,,Y,170-171,,Y
+Bay 50th St. Station Brooklyn,40.5886022710420,-73.9837574958801,Brooklyn,Brooklyn,Chases,Film,http://www.imdb.com/title/tt0067116/,86th Street from Bay 50th St. Station to 62nd St Station,Additional image on p61,Y,84-85,,Y
+E. 6th St. and Ave. A East Village Manhattan,40.7253968409595,-73.9837843179702,Manhattan,East Village,N/A,Film,http://www.imdb.com/title/tt0071562/,,,Y,149,,Y
+358 Chauncy St. Bensonhurst Brooklyn,40.6815010000000,-73.9187530000000,Brooklyn,Brooklyn,N/A,TV,http://www.imdb.com/title/tt0042114/,"358 Chauncy Street, Bensonhurst",,Y,254-255,,Y
+W. 14th St. and Hudson St. West Village Manhattan,40.7405915656527,-74.0054619312286,Manhattan ,West Village,N/A,Film,http://imdb.com/title/tt0274558/,Greenwich Village flower shop,,Y,243,,Y
+United Nations First Ave. and E. 45th St. Manhattan,40.7506706880159,-73.9679539203643,Manhattan,Midtown,N/A,Film,http://www.imdb.com/title/tt0373926/,United nations,2 other pix,Y,216-217,,Y
+51 Prospect Pl. Brooklyn,40.6796209846076,-73.9760380983352,Brooklyn,Brooklyn,N/A,Film,http://www.imdb.com/title/tt0065963/,"51 Prospect Place, off Sixth Avenue",poor quality,Y,172-173,,Y
+51 Prospect Pl. Brooklyn,40.6797280000000,-73.9759740000000,Brooklyn,Brooklyn,N/A,Film,http://www.imdb.com/title/tt0065963/,"51 Prospect Place, off Sixth Avenue",poor quality,Y,172-173,,Y
+Ed Sullivan Theatre 1697 Broadway Manhattan,40.7637190000000,-73.9828330000000,Manhattan,Midtown,N/A,TV,http://www.imdb.com/title/tt0106053/,1697 Broadway,,Y,264,,N
+Third Ave. from E. 55th to 110th St. Upper East Side to E. Harlem Manhattan,40.7590000000000,-73.9685000000000,Manhattan,Upper East Side,N/A,Film,http://imdb.com/title/tt0037884/,"Third Avenue from 55th to 110th Street,",,Y,32,,N
+Williamsburg Bridge Brooklyn,40.7113209430845,-73.9645743370056,Brooklyn,Brooklyn,N/A,Film,http://imdb.com/title/tt0040636/,Williamsburg Bridge,We have another photo,Y,34,,Y
+"E. 26th St. near Second Ave. Manhattan
 ",40.7397010000000,-73.9789350000000,Manhattan,Midtown,Historic Recreations,Film,http://www.imdb.com/title/tt0063348/,26th Street bet First and Second Aves.,,Y,148,,Y
-Central Park<br>Manhattan,40.7897047351501,-73.9606583118438,Manhattan,Central Park,N/A,Film,http://www.imdb.com/title/tt0066193/,Central Park,poor quality,Y,144,,Y
-W. 72nd St. and Broadway<br>Upper West Side<br>Manhattan,40.7788000000000,-73.9821000000000,Manhattan,Upper West Side,N/A,Film,http://www.imdb.com/title/tt0067549/,72nd street and Broadway,poor quality,Y,218-219,,Y
-Park Ave. and E. 116th St.<br>Harlem<br>Manhattan,40.7993500000000,-73.9432500000000,Manhattan,Harlem,N/A,Film,http://imdb.com/title/tt0059575/,Park Avenue and 116th Street,,Y,50,,N
-Brighton Beach Boardwalk<br>Brooklyn,40.5748886461028,-73.9637643098831,Brooklyn,Brooklyn,N/A,Film,http://www.imdb.com/title/tt0107824/,Brighton Beach Boardwalk,JAMES CROSSED OUT,N,,,Y
-Columbus Ave. near W. 75th St.<br>Upper West Side<br>Manhattan,40.7794000000000,-73.9774000000000,Manhattan,Upper West Side,N/A,Film,http://www.imdb.com/title/tt0093737/,Columbus Ave near 75th Street,Additional image p247,Y,222,,N
-Second Ave. and E. 87th St.<br>Upper East Side<br>Manhattan,40.7786000000000,-73.9513000000000,Manhattan,Upper East Side,N/A,Film,http://www.imdb.com/title/tt0072034/,2nd Avenue at 87th Street,,Y,107,,Y
-East 80's<br>Upper East Side<br>Manhattan,40.7770804937423,-73.9539206027984,Manhattan,Upper East Side,N/A,Film,http://www.imdb.com/title/tt0063462/,Lincoln Center - Columbus Avenue & 61st Street,poor quality,Y,56,,Y
-Lincoln Center Plaza<br>Upper West Side<br>Manhattan,40.7723437533226,-73.9834195375442,Manhattan,Upper West Side,N/A,Film,http://www.imdb.com/title/tt0063462/,Lincoln Center - Columbus Avenue & 61st Street,poor quality,Y,56,,Y
-Lincoln Center Plaza<br>Upper West Side<br>Manhattan,40.7721487516255,-73.9831942319870,Manhattan,Upper West Side,N/A,Film,http://www.imdb.com/title/tt0395251/,Lincoln Center Plaza,,Y,210,,N
+Central Park Manhattan,40.7897047351501,-73.9606583118438,Manhattan,Central Park,N/A,Film,http://www.imdb.com/title/tt0066193/,Central Park,poor quality,Y,144,,Y
+W. 72nd St. and Broadway Upper West Side Manhattan,40.7788000000000,-73.9821000000000,Manhattan,Upper West Side,N/A,Film,http://www.imdb.com/title/tt0067549/,72nd street and Broadway,poor quality,Y,218-219,,Y
+Park Ave. and E. 116th St. Harlem Manhattan,40.7993500000000,-73.9432500000000,Manhattan,Harlem,N/A,Film,http://imdb.com/title/tt0059575/,Park Avenue and 116th Street,,Y,50,,N
+Brighton Beach Boardwalk Brooklyn,40.5748886461028,-73.9637643098831,Brooklyn,Brooklyn,N/A,Film,http://www.imdb.com/title/tt0107824/,Brighton Beach Boardwalk,JAMES CROSSED OUT,N,,,Y
+Columbus Ave. near W. 75th St. Upper West Side Manhattan,40.7794000000000,-73.9774000000000,Manhattan,Upper West Side,N/A,Film,http://www.imdb.com/title/tt0093737/,Columbus Ave near 75th Street,Additional image p247,Y,222,,N
+Second Ave. and E. 87th St. Upper East Side Manhattan,40.7786000000000,-73.9513000000000,Manhattan,Upper East Side,N/A,Film,http://www.imdb.com/title/tt0072034/,2nd Avenue at 87th Street,,Y,107,,Y
+East 80's Upper East Side Manhattan,40.7770804937423,-73.9539206027984,Manhattan,Upper East Side,N/A,Film,http://www.imdb.com/title/tt0063462/,Lincoln Center - Columbus Avenue & 61st Street,poor quality,Y,56,,Y
+Lincoln Center Plaza Upper West Side Manhattan,40.7723437533226,-73.9834195375442,Manhattan,Upper West Side,N/A,Film,http://www.imdb.com/title/tt0063462/,Lincoln Center - Columbus Avenue & 61st Street,poor quality,Y,56,,Y
+Lincoln Center Plaza Upper West Side Manhattan,40.7721487516255,-73.9831942319870,Manhattan,Upper West Side,N/A,Film,http://www.imdb.com/title/tt0395251/,Lincoln Center Plaza,,Y,210,,N
 Manhattan,40.7542142745118,-73.9690482616424,Manhattan,Midtown,New York Moments,Film,http://imdb.com/title/tt0110413/,N/A,,Y,202,N,Y
-Convent Ave. and 144th St.<br>Hamilton Heights<br>Manhattan,40.8240000000000,-73.9467000000000,Manhattan,Harlem,N/A,Film,http://www.imdb.com/title/tt0265666/,"Covent Avenue and 144th Street, Hamilton Heights",,Y,208,,Y
-Lexington Ave. between 51st St. and 52nd St.<br>Midtown<br>Manhattan,40.7574488514269,-73.9716392755508,Manhattan,Midtown,N/A,Film,http://imdb.com/title/tt0048605/,Lexington Avenue between 51st and 52nd Streets,,Y,38-39,,Y
-Greenpoint<br>Brooklyn,40.7302507497813,-73.9543604850769,Brooklyn,Brooklyn,N/A,Film,http://www.imdb.com/title/tt0133952/,"Brooklyn Bridge, Greenpooint",,Y,184,,Y
-"Empire Stores Park<br>Brooklyn Bridge
+Convent Ave. and 144th St. Hamilton Heights Manhattan,40.8240000000000,-73.9467000000000,Manhattan,Harlem,N/A,Film,http://www.imdb.com/title/tt0265666/,"Covent Avenue and 144th Street, Hamilton Heights",,Y,208,,Y
+Lexington Ave. between 51st St. and 52nd St. Midtown Manhattan,40.7574488514269,-73.9716392755508,Manhattan,Midtown,N/A,Film,http://imdb.com/title/tt0048605/,Lexington Avenue between 51st and 52nd Streets,,Y,38-39,,Y
+Greenpoint Brooklyn,40.7302507497813,-73.9543604850769,Brooklyn,Brooklyn,N/A,Film,http://www.imdb.com/title/tt0133952/,"Brooklyn Bridge, Greenpooint",,Y,184,,Y
+"Empire Stores Park Brooklyn Bridge
 ",40.7040890000000,-73.9936170000000,Brooklyn,Brooklyn,N/A,TV,http://www.imdb.com/title/tt0141842/,F.A.O. Schwarz - 58th and Fifth Avenue,,Y,270-271,,N
-Museum of Natural History<br>W. 79th St. and Central Park West<br>Manhattan,40.7809963774517,-73.9724546670913,Manhattan,Upper West Side,N/A,Film,http://www.imdb.com/title/tt0367089/,Museum of natural History 81st and Central Park West,,Y,213,,N
-Subway near Court St.<br>Brooklyn,40.6930772101225,-73.9907366037368,Brooklyn,Brooklyn,N/A,Film,http://www.imdb.com/title/tt0072251/,Subway near Court St.,Additional Image on p94 of the book,Y,66,,N
-Astroland<br>Coney Island <br>Brooklyn,40.5746441709563,-73.9788597822189,Brooklyn,Brooklyn,The Subway,Film,http://www.imdb.com/title/tt0080120/,Coney Island boardwalk,poor quality,Y,136,,Y
-Subway Car<br>Coney Island<br>Brooklyn,40.5757606001838,-73.9812737703323,Brooklyn,Brooklyn,The Subway,Film,http://www.imdb.com/title/tt0080120/,Coney Island boardwalk,poor quality,Y,136,,Y
-World Trade Center<br>Lower Manhattan,40.7109224485850,-74.0140503644943,Manhattan,Lower Manhattan,N/A,Film,http://www.imdb.com/title/tt0078504/,World Trade Center,,Y,88,,N
-Subway at 53rd St. and Fifth Ave.<br>Midtown<br>Manhattan,40.7605044880654,-73.9754641056060,Manhattan,Midtown,N/A,Film,http://imdb.com/title/tt0051207/,Subway at 53rd Street and Fifth Avenue,,Y,42,,Y
-Riverside Drive<br>Upper West Side<br>Manhattan,40.8143126677903,-73.9618599414825,Manhattan,Harlem,N/A,Film,http://www.imdb.com/title/tt0073802/,North of 124th Street and Riverside Drive,poor quality,Y,62,,Y
-W. 42nd St. between Seventh Ave. and Eighth Ave.<br>Times Square<br>Manhattan,40.7566849203205,-73.9884245395660,Manhattan,Times Square,N/A,Film,http://www.imdb.com/title/tt0081635/,Times Square,poor quality,Y,236,,Y
-W. 42nd between Ninth Ave. and Tenth Ave.<br>Midtown<br>Manhattan,40.7591879809907,-73.9947760105133,Manhattan,Midtown,N/A,Film,http://www.imdb.com/title/tt0084805/,42nd between 9th and 10th Aves,poor quality,Y,237,,Y
+Museum of Natural History W. 79th St. and Central Park West Manhattan,40.7809963774517,-73.9724546670913,Manhattan,Upper West Side,N/A,Film,http://www.imdb.com/title/tt0367089/,Museum of natural History 81st and Central Park West,,Y,213,,N
+Subway near Court St. Brooklyn,40.6930772101225,-73.9907366037368,Brooklyn,Brooklyn,N/A,Film,http://www.imdb.com/title/tt0072251/,Subway near Court St.,Additional Image on p94 of the book,Y,66,,N
+Astroland Coney Island  Brooklyn,40.5746441709563,-73.9788597822189,Brooklyn,Brooklyn,The Subway,Film,http://www.imdb.com/title/tt0080120/,Coney Island boardwalk,poor quality,Y,136,,Y
+Subway Car Coney Island Brooklyn,40.5757606001838,-73.9812737703323,Brooklyn,Brooklyn,The Subway,Film,http://www.imdb.com/title/tt0080120/,Coney Island boardwalk,poor quality,Y,136,,Y
+World Trade Center Lower Manhattan,40.7109224485850,-74.0140503644943,Manhattan,Lower Manhattan,N/A,Film,http://www.imdb.com/title/tt0078504/,World Trade Center,,Y,88,,N
+Subway at 53rd St. and Fifth Ave. Midtown Manhattan,40.7605044880654,-73.9754641056060,Manhattan,Midtown,N/A,Film,http://imdb.com/title/tt0051207/,Subway at 53rd Street and Fifth Avenue,,Y,42,,Y
+Riverside Drive Upper West Side Manhattan,40.8143126677903,-73.9618599414825,Manhattan,Harlem,N/A,Film,http://www.imdb.com/title/tt0073802/,North of 124th Street and Riverside Drive,poor quality,Y,62,,Y
+W. 42nd St. between Seventh Ave. and Eighth Ave. Times Square Manhattan,40.7566849203205,-73.9884245395660,Manhattan,Times Square,N/A,Film,http://www.imdb.com/title/tt0081635/,Times Square,poor quality,Y,236,,Y
+W. 42nd between Ninth Ave. and Tenth Ave. Midtown Manhattan,40.7591879809907,-73.9947760105133,Manhattan,Midtown,N/A,Film,http://www.imdb.com/title/tt0084805/,42nd between 9th and 10th Aves,poor quality,Y,237,,Y
 Brooklyn Bridge,40.7056930038681,-73.9963048696518,Manhattan,Lower Manhattan,N/A,Film,http://www.imdb.com/title/tt0056626/,Brooklyn Bridge,,N,,,N
-East Harlem (El Barrio)<br>Manhattan,40.7979246369325,-73.9422154426574,Manhattan,Harlem,N/A,Film,http://www.imdb.com/title/tt0062425/,East Harlem (El Barrio),,Y,240,,Y
-Carousel<br>Central Park<br>Manhattan,40.7705643416205,-73.9775240421295,Manhattan,Central Park,N/A,Film,http://www.imdb.com/title/tt0069449/,Central Park,poor quality,Y,143,,Y
-Riverside Park near W. 109th St.<br>Morningside Heights<br>Manhattan,40.8051690029546,-73.9692091941833,Manhattan,Morningside Heights,N/A,Film,http://www.imdb.com/title/tt0069449/,Riverside Park,We have another photo,Y,221,,Y
-Astroland<br>Coney Island <br>Brooklyn,40.5740248299205,-73.9788812398910,Brooklyn,Brooklyn,N/A,Film,http://www.imdb.com/title/tt0263757/,Coney Island,,Y,138-139,,N
-W. 45th St. and Seventh Ave.<br>Times Square<br>Manhattan,40.7578714478420,-73.9853990077972,Manhattan,Times Square,N/A,Film,http://www.imdb.com/title/tt0259711/,Times Square,slide,Y,185,,Y
-New York Stock Exchange<br>Exchange Place<br>Lower Manhattan,40.7060508638740,-74.0105634927749,Manhattan,Lower Manhattan,New York Landmarks,Film,http://www.imdb.com/title/tt0094291/,New York Stock Exchange - Exchange place near broadway,,Y,169,,Y
+East Harlem (El Barrio) Manhattan,40.7979246369325,-73.9422154426574,Manhattan,Harlem,N/A,Film,http://www.imdb.com/title/tt0062425/,East Harlem (El Barrio),,Y,240,,Y
+Carousel Central Park Manhattan,40.7705643416205,-73.9775240421295,Manhattan,Central Park,N/A,Film,http://www.imdb.com/title/tt0069449/,Central Park,poor quality,Y,143,,Y
+Riverside Park near W. 109th St. Morningside Heights Manhattan,40.8051690029546,-73.9692091941833,Manhattan,Morningside Heights,N/A,Film,http://www.imdb.com/title/tt0069449/,Riverside Park,We have another photo,Y,221,,Y
+Astroland Coney Island  Brooklyn,40.5740248299205,-73.9788812398910,Brooklyn,Brooklyn,N/A,Film,http://www.imdb.com/title/tt0263757/,Coney Island,,Y,138-139,,N
+W. 45th St. and Seventh Ave. Times Square Manhattan,40.7578714478420,-73.9853990077972,Manhattan,Times Square,N/A,Film,http://www.imdb.com/title/tt0259711/,Times Square,slide,Y,185,,Y
+New York Stock Exchange Exchange Place Lower Manhattan,40.7060508638740,-74.0105634927749,Manhattan,Lower Manhattan,New York Landmarks,Film,http://www.imdb.com/title/tt0094291/,New York Stock Exchange - Exchange place near broadway,,Y,169,,Y
 Broadway and Vesey St.,40.7114000000000,-74.0086000000000,Manhattan,Lower Manhattan,N/A,Film,http://www.imdb.com/title/tt0094291/,Broadway and Vesey Street,,Y,164,,N
-W. 68th St.<br>Upper West Side<br>Manhattan,40.7762192933307,-73.9839184284210,Manhattan,Upper West Side,N/A,Film,http://imdb.com/title/tt0055614/,West 68th Street,,Y,46-47,,Y
-W. 68th St.<br>Upper West Side<br>Manhattan,40.7765117777413,-73.9851200580596,Manhattan,Upper West Side,N/A,Film,http://imdb.com/title/tt0055614/,West 68th Street,,Y,46-47,,Y
-Katz's Deli<br>205 E. Houston St.<br>Manhattan,40.7223220000000,-73.9874330000000,Manhattan,Lower East Side,N/A,Film,http://www.imdb.com/title/tt0098635/,Katz's Deli - Houston Street at Ludlow St,,Y,166-167,,Y
-Washington Square Park<br>West Village<br>Manhattan,40.7311369361184,-73.9971846342086,Manhattan,West Village,N/A,Film,http://www.imdb.com/title/tt0098635/,Washington Square Park,,Y,79,,N
-World Trade Center<br>Lower Manhattan,40.7101335850935,-74.0126770734787,Manhattan,Lower Manhattan,N/A,Film,http://www.imdb.com/title/tt0083336/,World Trade Center,,Y,189,,N
+W. 68th St. Upper West Side Manhattan,40.7762192933307,-73.9839184284210,Manhattan,Upper West Side,N/A,Film,http://imdb.com/title/tt0055614/,West 68th Street,,Y,46-47,,Y
+W. 68th St. Upper West Side Manhattan,40.7765117777413,-73.9851200580596,Manhattan,Upper West Side,N/A,Film,http://imdb.com/title/tt0055614/,West 68th Street,,Y,46-47,,Y
+Katz's Deli 205 E. Houston St. Manhattan,40.7223220000000,-73.9874330000000,Manhattan,Lower East Side,N/A,Film,http://www.imdb.com/title/tt0098635/,Katz's Deli - Houston Street at Ludlow St,,Y,166-167,,Y
+Washington Square Park West Village Manhattan,40.7311369361184,-73.9971846342086,Manhattan,West Village,N/A,Film,http://www.imdb.com/title/tt0098635/,Washington Square Park,,Y,79,,N
+World Trade Center Lower Manhattan,40.7101335850935,-74.0126770734787,Manhattan,Lower Manhattan,N/A,Film,http://www.imdb.com/title/tt0083336/,World Trade Center,,Y,189,,N
 Manhattan Bridge,40.7082305151118,-73.9911764860153,Manhattan ,Lower Manhattan,N/A,Film,http://www.imdb.com/title/tt0083336/,Manhattan Bridge,,Y,189,,N
-Charlotte St.<br>The Bronx,40.8347879563951,-73.8921225070953,The Bronx,The Bronx,N/A,Film,http://www.imdb.com/title/tt0083336/,Charlotte Street near 172nd Street,,Y,127,,N
-Staten Island Ferry<br>New York Harbor,40.6823303463911,-74.0357494354248,Staten Island,Staten Island,N/A,Film,http://www.imdb.com/title/tt0096463/,Staten Island Ferry - crossing the upper bay,poor quality,Y,165,,Y
-Steeplechase Park<br>Coney Island<br>Brooklyn,40.5747256627710,-73.9803296327591,Brooklyn,Brooklyn,N/A,Film,http://www.imdb.com/title/tt0061209/,"Steeplechase Park, Coney Island",poor quality,Y,68,,Y
-"New York Public Library<br>Fifth Ave. and 41st St.<br>Manhattan
+Charlotte St. The Bronx,40.8347879563951,-73.8921225070953,The Bronx,The Bronx,N/A,Film,http://www.imdb.com/title/tt0083336/,Charlotte Street near 172nd Street,,Y,127,,N
+Staten Island Ferry New York Harbor,40.6823303463911,-74.0357494354248,Staten Island,Staten Island,N/A,Film,http://www.imdb.com/title/tt0096463/,Staten Island Ferry - crossing the upper bay,poor quality,Y,165,,Y
+Steeplechase Park Coney Island Brooklyn,40.5747256627710,-73.9803296327591,Brooklyn,Brooklyn,N/A,Film,http://www.imdb.com/title/tt0061209/,"Steeplechase Park, Coney Island",poor quality,Y,68,,Y
+"New York Public Library Fifth Ave. and 41st St. Manhattan
 ",40.7528651331099,-73.9815366268158,Manhattan,Midtown,N/A,Film,http://www.imdb.com/title/tt0061209/,"New York Public Library, Fifth ave bt 41st and 42nd",poor quality,Y,71,,Y
-Verdi Square<br>W. 73rd St.  & Broadway<br>Manhattan,40.7792578185718,-73.9815366268158,Manhattan,Upper West Side,N/A,Film,http://www.imdb.com/title/tt0128853/,Verdi Square,,Y,223,,Y
-91st Street Community Garden<br>Riverside Park<br>Manhattan,40.7928238690811,-73.9774167537689,Manhattan,Upper West Side,N/A,Film,http://www.imdb.com/title/tt0128853/,91st Street Community Garden,,Y,206,,Y
+Verdi Square W. 73rd St.  & Broadway Manhattan,40.7792578185718,-73.9815366268158,Manhattan,Upper West Side,N/A,Film,http://www.imdb.com/title/tt0128853/,Verdi Square,,Y,223,,Y
+9090991st Street Community Garden Riverside Park Manhattan,40.7928238690811,-73.9774167537689,Brains,Upper West Side,N/A,Film,http://www.imdb.com/title/tt0128853/,91st Street Community Garden,,Y,206,,Y
+41000000st Street Community Garden Riverside Park Manhattan,40.7928238690811,-73.9774167537689,Manhattan,Upper West Side,N/A,Film,http://www.imdb.com/title/tt0128853/,91st Street Community Garden,,Y,206,,Y
