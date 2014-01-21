@@ -10,7 +10,8 @@ task :import_scene => [:environment] do
       :title => row[0],
       :year => row[1],
       :IMDB => row[2],
-      :address => row[3]
+      :address => row[3],
+      :geolocation_id => row[4]
     })
   end
 

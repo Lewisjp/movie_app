@@ -34,8 +34,7 @@ ActiveRecord::Schema.define(:version => 20140116230621) do
     t.string   "title"
     t.date     "year"
     t.string   "IMDB"
-    t.string   "agency"
-    t.string   "artist"
+    t.string   "address"
     t.integer  "geolocation_id"
     t.datetime "created_at",     :null => false
     t.datetime "updated_at",     :null => false

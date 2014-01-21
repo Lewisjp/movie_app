@@ -7,26 +7,28 @@
   </p>
 <% end %>
 
-<table>
-  <tr>
-    <th>Address</th>
-    <th>Latitude</th>
-    <th>Longitude</th>
-    <th></th>
-    <th></th>
-    <th></th>
-  </tr>
+<% if params[:search].present? == true %>
+  <table>
+    <tr>
+      <th>Movie</th>
+      <th>Address</th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+    </tr>
 
-
- <% @locations.each do |location| %>
-  <tr>
-    <td><%= location.address %></td>
-    <td><%= link_to 'Show', location %></td>
-    <td><%= link_to 'Edit', edit_geolocation_path(location) %></td>
-    <td><%= link_to 'Destroy', location, method: :delete, data: { confirm: 'Are you sure?' } %>
-    </td>
-  </tr>
+  <% @locations.each do |location| %>
+   <tr>
+     <td><%=location.scenes.pluck(:title)[0]%>,</td>
+     <td><%= location.address %></td>
+     <td><%= link_to 'Show', location %></td>
+     <td><%= link_to 'Edit', edit_geolocation_path( location) %></td>
+     <td><%= link_to 'Destroy', location, method: :delete, data: { confirm: 'Are you sure?' } %>
+     </td>
+   </tr>
+  <% end %>
+  </table>
 <% end %>
-</table>
 
 <%= link_to 'New Location', new_geolocation_path %>

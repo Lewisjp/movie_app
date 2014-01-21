@@ -13,6 +13,7 @@ MovieApp::Application.routes.draw do
   resources :geolocations do
     resources :scenes
   end
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
