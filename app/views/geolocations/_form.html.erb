@@ -28,7 +28,7 @@
 
   <%= form_for @location, url: {action: "create"} do |location_form| %>
     <%= location_form.text_field(:address) %>
-    <%= scene_form.text_field(:title) %>
+    <%= text_field_tag(:title) %>
     <%= f.submit %>
   <% end %>
 

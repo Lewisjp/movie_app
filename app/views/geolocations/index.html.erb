@@ -18,6 +18,8 @@
       <th></th>
     </tr>
 
+
+  <% if @locations.present? %>
   <% @locations.each do |location| %>
    <tr>
      <td><%=location.scenes.pluck(:title)[0]%>,</td>
@@ -31,6 +33,9 @@
    </tr>
   <% end %>
   </table>
+  <% else %>
+    <p>"There are no movie location near your location"</p>
+    <% end %>
 <% end %>
 
 <%= link_to 'New Location', new_geolocation_path %>
