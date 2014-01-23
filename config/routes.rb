@@ -1,5 +1,5 @@
 MovieApp::Application.routes.draw do
-  get "admin/index" => 'admin#index'
+  get "admin/index" => 'admin#index' #so users can login
 
   controller :sessions do 
     get 'login' => :new

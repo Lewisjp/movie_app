@@ -13,6 +13,7 @@ class GeolocationsController < ActionController::Base
   end
 
   def new
+
     @location = Geolocation.new
   end
 
@@ -22,6 +23,10 @@ class GeolocationsController < ActionController::Base
 
   def create
     @location = Geolocation.new(params[:geolocation])
+    @scene = Scene.new(:title => params[:title])
+    geolocation.scenes << scene
+    geolocation.save
+    scene.save
 
     respond_to do |format|
       if @location.save
