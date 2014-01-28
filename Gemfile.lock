@@ -53,6 +53,9 @@ GEM
     geocoder (1.1.9)
     hike (1.2.3)
     i18n (0.6.9)
+    jbuilder (1.5.3)
+      activesupport (>= 3.0.0)
+      multi_json (>= 1.2.0)
     journey (1.0.4)
     jquery-rails (3.0.4)
       railties (>= 3.0, < 5.0)
@@ -119,7 +122,9 @@ DEPENDENCIES
   debugger
   figaro
   geocoder
+  jbuilder
   jquery-rails
+  json
   rails (= 3.2.16)
   sass-rails (~> 3.2.3)
   sqlite3
