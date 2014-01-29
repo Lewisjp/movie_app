@@ -4,4 +4,14 @@
 # If you change this key, all old signed cookies will become invalid!
 # Make sure the secret is at least 30 characters and all random,
 # no regular words or you'll be exposed to dictionary attacks.
-MovieApp::Application.config.secret_token = ENV['SECRET_TOKEN']
+
+MovieApp::Application.config.secret_token = if Rails.env.development? or Rails.env.test?
+  ('x' * 30) # meets minimum requirement of 30 chars long
+else
+  ENV['SECRET_TOKEN']
+end
+
+
+# pusher.app_id = ENV["PUSHER_APP_ID"]
+#pusher.key = ENV["PUSHER_KEY"]
+#pusher.secret = ENV["PUSHER_SECRET"]

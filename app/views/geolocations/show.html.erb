@@ -15,7 +15,8 @@
   <b>Longitude:</b>
   <%= @location.longitude %>
 </p> -->
-
+<p>Below is our instance variable</p>
+<%= @movieAPIdata.inspect %><br>
 
 <%= image_tag "http://maps.google.com/maps/api/staticmap?size=450x300&sensor=false&zoom=16&markers=#{@location.latitude}%2C#{@location.longitude}" %>
 
