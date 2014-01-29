@@ -16,9 +16,21 @@
   <%= @location.longitude %>
 </p> -->
 <p>Below is our instance variable</p>
-<%= @movieAPIdata.inspect %><br>
+<%= @movieAPIdata.rating %><br>
+<%= @movieAPIdata.year %><br>
 
+<img src=<%= @movieAPIdata.poster %> height="80" width="40"><br>
+
+<a href=<%= @movieAPIdata.rt_link %>>Visit the Rotten Tomatoes Page</a><br>
+
+
+<%= @movieAPIdata.synopsis %><br>
+<!--  -->
 <%= image_tag "http://maps.google.com/maps/api/staticmap?size=450x300&sensor=false&zoom=16&markers=#{@location.latitude}%2C#{@location.longitude}" %>
+
+
+
+
 
 
 <h3>Nearby locations</h3>
