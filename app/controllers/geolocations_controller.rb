@@ -15,7 +15,6 @@ class GeolocationsController < ActionController::Base
   end
 
   def new
-
     @location = Geolocation.new
   end
 
