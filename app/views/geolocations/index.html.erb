@@ -17,18 +17,16 @@
       <th></th>
       <th></th>
     </tr>
-
-
   <% if @locations.present? %>
   <% @locations.each do |location| %>
    <tr>
      <td><%=location.scenes.pluck(:title)[0]%>,</td>
      <td><%= location.address %></td>
-     <td><%= link_to 'Show', location %></td>
+     <td><%= link_to 'Show all locations for this movie', scene_path(@location) %></td>
      <% if session[:user_id] %>
+     <td><%= link_to 'New Location', new_geolocation_path %></td>
      <td><%= link_to 'Edit', edit_geolocation_path( location) %></td>
      <td><%= link_to 'Destroy', location, method: :delete, data: { confirm: 'Are you sure?' } %></td>
-     <%= button_to 'Logout', logout_path, method: :delete %>
      <% end %>
    </tr>
   <% end %>
@@ -37,5 +35,8 @@
     <p>"There are no movie location near your location"</p>
     <% end %>
 <% end %>
+<% if session[:user_id] %>
+<%= button_to 'Logout', logout_path, method: :delete %>
+<% end %>
 
-<%= link_to 'New Location', new_geolocation_path %>
+

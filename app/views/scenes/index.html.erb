@@ -1,2 +1,9 @@
 <h1> List of all movie scenes shoot in geolocation/:id </h1>
 
+<% if Scene.where(:title => "scene.title").size > 1 %>
+  <% Scene.where(:title=>"scene.title").each do |seeaddress| %>
+  <%= seeaddress.pluck(:address)[0] %>
+  <% end %>
+<% else %>
+  <%= Scene.where(:title => "scene.title").pluck(:address)[0] %>
+<% end %>

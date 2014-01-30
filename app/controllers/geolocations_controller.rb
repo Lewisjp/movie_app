@@ -1,3 +1,5 @@
+require 'debugger'
+
 class GeolocationsController < ActionController::Base
   
   def index
@@ -24,6 +26,7 @@ class GeolocationsController < ActionController::Base
   def create
     @location = Geolocation.new(params[:geolocation])
     @scene = Scene.new(:title => params[:title])
+    debugger
     @location.scenes << @scene
     @location.save
     @scene.save

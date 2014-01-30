@@ -11,8 +11,10 @@ MovieApp::Application.routes.draw do
 
 
   resources :geolocations do
-    resources :scenes
+    resources :scenes, only: [:new, :create, :destroy, :edit, :update]
   end
+
+  resources :scenes, only: [:show]
 
   # The priority is based upon order of creation:
   # first created -> highest priority.

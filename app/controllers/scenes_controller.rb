@@ -4,6 +4,7 @@ class ScenesController < ActionController::Base
     @scenes = Scene.all 
   end
 
+
   def show
     @scene = Scene.find(params[:id])
   end

@@ -1,1 +1,5 @@
-<h1> <%= Scene.find_by_geolocation_id(5).title %></h1>
+<h1> <%= @scene.title %></h1>
+
+  <% Scene.where(:title=> @scene.title).each do |seeaddress| %>
+  <%= seeaddress.address %>
+  <% end %>
