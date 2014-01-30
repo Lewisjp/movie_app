@@ -12,6 +12,8 @@ class GeolocationsController < ActionController::Base
 
   def show 
     @location = Geolocation.find(params[:id])
+    @movieAPIdata = Api.new(@location.scenes.pluck(:title)) 
+    #@description = @movieAPIdata["movies"][0]["synopsis"] 
   end
 
   def new

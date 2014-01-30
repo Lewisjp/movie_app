@@ -8,6 +8,9 @@
 <% end %>
 
 <% if params[:search].present? == true %>
+
+  <% if @locations.present? %>
+
   <table>
     <tr>
       <th>Movie</th>
@@ -17,7 +20,11 @@
       <th></th>
       <th></th>
     </tr>
+<<<<<<< HEAD
   <% if @locations.present? %>
+=======
+
+>>>>>>> master
   <% @locations.each do |location| %>
    <tr>
      <td><%=location.scenes.pluck(:title)[0]%>,</td>
