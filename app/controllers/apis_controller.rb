@@ -1,22 +1,22 @@
 class Api
 
 
-	def new(film)
+def new(film)
 
-	api_key = ENV['THIRD_PARTY_API_OR_LICENSE_KEY']
+api_key = ENV['THIRD_PARTY_API_OR_LICENSE_KEY']
 
-	# film = @location.scenes.pluck(:title)
-	
-	#user_input = "Toy Story 3"
+# film = @location.scenes.pluck(:title)
 
-	#film = "Toy+Story+3"
+#user_input = "Toy Story 3"
 
-	# Convert user input into something we can use in the API
-	film = film[0].gsub(/\s/ , "+")
+#film = "Toy+Story+3"
 
-	# Use JSON gem to get data
-	@movieAPIdata = JSON.parse(open("http://api.rottentomatoes.com/api/public/v1.0/movies.json?apikey=#{API_Key}=#{film}&page_limit=1").read) 
-	
-	end
+# Convert user input into something we can use in the API
+film = film[0].gsub(/\s/ , "+")
+
+# Use JSON gem to get data
+@movieAPIdata = JSON.parse(open("http://api.rottentomatoes.com/api/public/v1.0/movies.json?apikey=#{API_Key}=#{film}&page_limit=1").read)
+
+end
 
 end

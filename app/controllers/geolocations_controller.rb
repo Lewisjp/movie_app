@@ -8,10 +8,10 @@ class GeolocationsController < ActionController::Base
     end
   end
 
-  def show 
+  def show
     @location = Geolocation.find(params[:id])
-    @movieAPIdata = Api.new(@location.scenes.pluck(:title)) 
-
+    @movieAPIdata = Api.new(@location.scenes.pluck(:title))
+    #@description = @movieAPIdata["movies"][0]["synopsis"]
   end
 
   def new
@@ -32,7 +32,7 @@ class GeolocationsController < ActionController::Base
 
     respond_to do |format|
       if @location.save
-        format.html { redirect_to @location, notice:  'Location was successfully create.'}
+        format.html { redirect_to @location, notice: 'Location was successfully create.'}
         format.json { render json: @location, status: :created, location: @location }
       else
         format.html { render action: "new"}
@@ -46,7 +46,7 @@ class GeolocationsController < ActionController::Base
 
     respond_to do |format|
       if @location.update_attribute(params[:geolocation])
-        format.html { redirect_to @location, notice:  'Location was successfully updated.'}
+        format.html { redirect_to @location, notice: 'Location was successfully updated.'}
         format.json { head :no_content }
       else
         format.html { render action: "edit" }
@@ -65,3 +65,4 @@ class GeolocationsController < ActionController::Base
     end
   end
 end
+
