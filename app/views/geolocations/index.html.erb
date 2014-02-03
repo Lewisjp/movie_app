@@ -9,6 +9,7 @@
       </p>
     <% end %>
   </div>
+  
   <div class="searchResults">
     <% if params[:search].present? == true %>
 
@@ -42,7 +43,9 @@
         <% end %>
     <% end %>
   </div>
+  
   <div class="UserOptions">
     <%= link_to 'New Location', new_geolocation_path %>
   </div>
 </div>
+

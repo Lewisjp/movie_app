@@ -22,9 +22,7 @@
   	  <p><b>Address:</b>
   	  <%= @location.address %></p>
   	<%= image_tag "http://maps.google.com/maps/api/staticmap?size=450x300&sensor=false&zoom=16&markers=#{@location.latitude}%2C#{@location.longitude}" %>
-    <p>
-  	<h3>Nearby locations</h3>
-    </p>
+    <p><h3>Nearby locations</h3></p>
   	<ul>
   	<% @location.nearbys(0.25).each do |location| %>
   	<li><%=location.scenes.pluck(:title)[0]%></li>
