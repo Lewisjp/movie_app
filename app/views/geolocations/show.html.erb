@@ -1,35 +1,43 @@
-<p id="notice"><%= notice %></p>
+<div class="container">
 
-<p>
-  <b>Address:</b>
-  <%= @location.address %>
-<p><%= @location.scenes.pluck(:title)[0]%></p>
-</p>
+  <div class="MovieSelected">
+  	<p><%= @location.scenes.pluck(:title)[0]%></p>
+  	<p>
+    <%= @movieAPIdata.synopsis %></p>
+  </div>
 
-<!-- <p>
-  <b>Latitude:</b>
-  <%= @location.latitude %>
-</p>
+  <div class="Poster">
+    <p><img src=<%= @movieAPIdata.poster %> height="80" width="40"></p>
+  </div>
 
-<p>
-  <b>Longitude:</b>
-  <%= @location.longitude %>
-</p> -->
+  <div class="MovieDetails">
+    <%= @movieAPIdata.year %><br>
+    <%= @movieAPIdata.rating %><br>
+    <p>Movie Director will go here</p>
+    <p>Movie Rating will go here</p>
+    <p><a href=<%= @movieAPIdata.rt_link %>>Visit the Rotten Tomatoes Page</a></p>
+  </div>
 
+  <div class="GeoDetails">
+  	  <p><b>Address:</b>
+  	  <%= @location.address %></p>
+  	<%= image_tag "http://maps.google.com/maps/api/staticmap?size=450x300&sensor=false&zoom=16&markers=#{@location.latitude}%2C#{@location.longitude}" %>
+    <p>
+  	<h3>Nearby locations</h3>
+    </p>
+  	<ul>
+  	<% @location.nearbys(0.25).each do |location| %>
+  	<li><%=location.scenes.pluck(:title)[0]%></li>
+  	  <li><%= link_to location.address, geolocation_path(location) %> (<%= location.distance.round(2) %> miles)</li>
+  	<% end %>
+  	</ul>
+  </div>
 
-<%= image_tag "http://maps.google.com/maps/api/staticmap?size=450x300&sensor=false&zoom=16&markers=#{@location.latitude}%2C#{@location.longitude}" %>
-
-
-<h3>Nearby locations</h3>
-<ul>
-<% @location.nearbys(0.25).each do |location| %>
-<li><%=location.scenes.pluck(:title)[0]%></li>
-  <li><%= link_to location.address, geolocation_path(location) %> (<%= location.distance.round(2) %> miles)</li>
-<% end %>
-</ul>
-
-<% if session[:user_id] %>
-<%= link_to 'Edit', edit_geolocation_path(@location) %> 
-<%= button_to 'Logout', logout_path, method: :delete %>
-<% end %>
-<%= link_to 'Back', geolocations_path %>
+  <div class="UserOptions">
+  	<% if session[:user_id] %>
+  	<%= link_to 'Edit', edit_geolocation_path(@location) %> 
+  	<%= button_to 'Logout', logout_path, method: :delete %>
+  	<% end %>
+  	<%= link_to 'Back', geolocations_path %>
+  </div>
+</div>

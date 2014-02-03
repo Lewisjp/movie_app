@@ -7,6 +7,9 @@ gem 'rails', '3.2.16'
 
 gem 'sqlite3'
 gem 'geocoder'
+gem 'figaro'
+gem 'dotenv-rails' # http://daniel.fone.net.nz/blog/2013/05/20/a-better-way-to-manage-the-rails-secret-token/
+gem 'nokogiri'
 
 # Gems used only for assets and not required
 # in production environments by default.
@@ -28,8 +31,8 @@ gem 'jquery-rails'
  gem 'bcrypt-ruby', '~> 3.0.0'
 
 # To use Jbuilder templates for JSON
-# gem 'jbuilder'
-
+ gem 'jbuilder'
+ gem 'json'
 # Use unicorn as the app server
 # gem 'unicorn'
 
