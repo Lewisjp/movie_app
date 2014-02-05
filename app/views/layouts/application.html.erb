@@ -8,7 +8,16 @@
   <%= stylesheet_link_tag "nyc" %>
 </head>
 <body>
+    <div class="userInput">
+      <h1>Awesome Movie App</h1>
 
+      <%= form_tag geolocations_path, :method => :get do %>
+        <p>
+          <%= text_field_tag :search, params[:search] %>
+          <%= submit_tag "Search", :name => nil %>
+        </p>
+      <% end %>
+    </div>
 <%= yield %>
 
 </body>

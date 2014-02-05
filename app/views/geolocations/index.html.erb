@@ -1,16 +1,6 @@
 <div class="wrapper">
   <div class="container">
-    <div class="userInput">
-      <h1>Awesome Movie App</h1>
 
-      <%= form_tag geolocations_path, :method => :get do %>
-        <p>
-          <%= text_field_tag :search, params[:search] %>
-          <%= submit_tag "Search", :name => nil %>
-        </p>
-      <% end %>
-    </div>
-    
     <div class="searchResults">
       <% if params[:search].present? == true %>
 
@@ -26,28 +16,44 @@
             <th></th>
           </tr>
 
-        <% @locations.each do |location| %>
-         <tr>
-           <td><%=location.scenes.pluck(:title)[0]%>,</td>
-           <td><%= location.address %></td>
-           <td><%= link_to 'Show', location %></td>
-           <% if session[:user_id] %>
-           <td><%= link_to 'Edit', edit_geolocation_path( location) %></td>
-           <td><%= link_to 'Destroy', location, method: :delete, data: { confirm: 'Are you sure?' } %></td>
-           <%= button_to 'Logout', logout_path, method: :delete %>
-           <% end %>
-         </tr>
-        <% end %>
+          <% @locations.each do |location| %>
+            <tr>
+               <td><%=location.scenes.pluck(:title)[0]%>,</td>
+               <td><%= location.address %></td>
+               <td><%= link_to 'Show', location %></td>
+               <% if session[:user_id] %>
+               <td><%= link_to 'Edit', edit_geolocation_path( location) %></td>
+               <td><%= link_to 'Destroy', location, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+               <%= button_to 'Logout', logout_path, method: :delete %>
+               <% end %>
+             </tr>
+          <% end %>
         </table>
+
         <% else %>
           <p>"There are no movie location near your location"</p>
-          <% end %>
+        <% end %>
       <% end %>
 
-     <% if params[:search].present? == false %>
-     hello
+<!-- Map preview if no search given -->
+       <% if params[:search].present? == false %>
+          <div class="IndexMovieData">
+            <div class="Poster">
+              <p><img src=<%= @movieAPIdata.poster %>></p>
+            </div>
 
-     <% end %>
+
+            <div class="GeoDetails">
+                <p><b>Film:</b>
+                <%= @preview.scenes.pluck(:title)[0]%>
+                </p>
+                <p><b>Address:</b>
+                <%= @preview.address %></p>
+              <%= image_tag "http://maps.google.com/maps/api/staticmap?size=450x300&sensor=false&zoom=16&markers=#{@preview.latitude}%2C#{@preview.longitude}" %>
+            </div>
+          </div>
+
+       <% end %>
 
     </div>
     </div>

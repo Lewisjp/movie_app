@@ -1,7 +1,7 @@
-/*div {
+div {
 border:2px solid black;
 
-}*/
+}
 
 .container {
   background-color: white;
@@ -17,7 +17,13 @@ border:2px solid black;
   width: 50%;
 }
 
+.IndexMovieData {
+  width: 100%;
+}
+
+
 .MovieData .Poster { 
+  margin: 3px;
   float: left;
   width: auto;
 }
@@ -79,6 +85,10 @@ img {
 
   text-align:center;
 
+}
+
+.Preview {
+  width: 50%;
 }
 
 /* every page */

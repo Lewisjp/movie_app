@@ -12,8 +12,11 @@ class GeolocationsController < ActionController::Base
       @locations = Geolocation.limit(5)
     end
 
+    @preview = Geolocation.find(rand(208))
+    @movieAPIdata = Api.new(@preview.scenes.pluck(:title))
 
-
+    @preview = Geolocation.find(rand(208))
+    @movieAPIdata = Api.new(@preview.scenes.pluck(:title))
   end
 
   def show
