@@ -2,12 +2,18 @@ require 'debugger'
 
 class GeolocationsController < ActionController::Base
   
+     layout 'application'
+
+
   def index
     if params[:search].present?
       @locations = Geolocation.near(params[:search], 0.25, :order => :distance )
     else
       @locations = Geolocation.limit(5)
     end
+
+
+
   end
 
   def show

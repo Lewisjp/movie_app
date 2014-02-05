@@ -1,51 +1,55 @@
-<div class="container">
-  <div class="userInput">
-    <h1>Enter your address</h1>
+<div class="wrapper">
+  <div class="container">
+    <div class="userInput">
+      <h1>Awesome Movie App</h1>
 
-    <%= form_tag geolocations_path, :method => :get do %>
-      <p>
-        <%= text_field_tag :search, params[:search] %>
-        <%= submit_tag "Search Near", :name => nil %>
-      </p>
-    <% end %>
-  </div>
-  
-  <div class="searchResults">
-    <% if params[:search].present? == true %>
-
-      <% if @locations.present? %>
-
-      <table>
-        <tr>
-          <th>Movie</th>
-          <th>Address</th>
-          <th></th>
-          <th></th>
-          <th></th>
-          <th></th>
-        </tr>
-
-      <% @locations.each do |location| %>
-       <tr>
-         <td><%=location.scenes.pluck(:title)[0]%>,</td>
-         <td><%= location.address %></td>
-         <td><%= link_to 'Show', location %></td>
-         <% if session[:user_id] %>
-         <td><%= link_to 'Edit', edit_geolocation_path( location) %></td>
-         <td><%= link_to 'Destroy', location, method: :delete, data: { confirm: 'Are you sure?' } %></td>
-         <%= button_to 'Logout', logout_path, method: :delete %>
-         <% end %>
-       </tr>
+      <%= form_tag geolocations_path, :method => :get do %>
+        <p>
+          <%= text_field_tag :search, params[:search] %>
+          <%= submit_tag "Search", :name => nil %>
+        </p>
       <% end %>
-      </table>
-      <% else %>
-        <p>"There are no movie location near your location"</p>
+    </div>
+    
+    <div class="searchResults">
+      <% if params[:search].present? == true %>
+
+        <% if @locations.present? %>
+
+        <table>
+          <tr>
+            <th>Movie</th>
+            <th>Address</th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+          </tr>
+
+        <% @locations.each do |location| %>
+         <tr>
+           <td><%=location.scenes.pluck(:title)[0]%>,</td>
+           <td><%= location.address %></td>
+           <td><%= link_to 'Show', location %></td>
+           <% if session[:user_id] %>
+           <td><%= link_to 'Edit', edit_geolocation_path( location) %></td>
+           <td><%= link_to 'Destroy', location, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+           <%= button_to 'Logout', logout_path, method: :delete %>
+           <% end %>
+         </tr>
         <% end %>
-    <% end %>
-  </div>
-  
-  <div class="UserOptions">
-    <%= link_to 'New Location', new_geolocation_path %>
+        </table>
+        <% else %>
+          <p>"There are no movie location near your location"</p>
+          <% end %>
+      <% end %>
+
+     <% if params[:search].present? == false %>
+     hello
+
+     <% end %>
+
+    </div>
+    </div>
   </div>
 </div>
-

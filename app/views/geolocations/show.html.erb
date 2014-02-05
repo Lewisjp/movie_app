@@ -6,16 +6,18 @@
     <%= @movieAPIdata.synopsis %></p>
   </div>
 
-  <div class="Poster">
-    <p><img src=<%= @movieAPIdata.poster %> height="80" width="40"></p>
-  </div>
+  <div class="MovieData">
+    <div class="Poster">
+      <p><img src=<%= @movieAPIdata.poster %>></p>
+    </div>
 
-  <div class="MovieDetails">
-    <%= @movieAPIdata.year %><br>
-    <%= @movieAPIdata.rating %><br>
-    <p>Movie Director will go here</p>
-    <p>Movie Rating will go here</p>
-    <p><a href=<%= @movieAPIdata.rt_link %>>Visit the Rotten Tomatoes Page</a></p>
+    <div class="MovieDetails">
+      <%= @movieAPIdata.year %><br>
+      <%= @movieAPIdata.rating %><br>
+      <p>Movie Director will go here</p>
+      <p>Movie Rating will go here</p>
+      <p><a href=<%= @movieAPIdata.rt_link %> target="_blank">Visit the Rotten Tomatoes Page</a></p>
+    </div>
   </div>
 
   <div class="GeoDetails">
