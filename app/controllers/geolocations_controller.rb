@@ -12,17 +12,16 @@ class GeolocationsController < ActionController::Base
       @locations = Geolocation.limit(5)
     end
 
+    # if the index returns false for search, it will use these items
     @preview = Geolocation.find(rand(208))
     @movieAPIdata = Api.new(@preview.scenes.pluck(:title))
 
-    @preview = Geolocation.find(rand(208))
-    @movieAPIdata = Api.new(@preview.scenes.pluck(:title))
   end
 
   def show
     @location = Geolocation.find(params[:id])
     @movieAPIdata = Api.new(@location.scenes.pluck(:title))
-    #@description = @movieAPIdata["movies"][0]["synopsis"]
+    
   end
 
   def new

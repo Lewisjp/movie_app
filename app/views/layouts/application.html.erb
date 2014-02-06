@@ -9,7 +9,7 @@
 </head>
 <body>
     <div class="userInput">
-      <h1>Awesome Movie App</h1>
+      <h1>On the Scene</h1>
 
       <%= form_tag geolocations_path, :method => :get do %>
         <p>
@@ -17,6 +17,15 @@
           <%= submit_tag "Search", :name => nil %>
         </p>
       <% end %>
+        <div class="UserOptions">
+          <% if session[:user_id] %>
+          <%= link_to 'Edit', edit_geolocation_path(@location) %> 
+          <%= button_to 'Logout', logout_path, method: :delete %>
+          <% end %>
+          <% if params[:search].present? == true %>
+            <%= link_to 'Back', geolocations_path %>
+          <% end %>
+        </div>
     </div>
 <%= yield %>
 

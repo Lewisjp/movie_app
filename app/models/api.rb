@@ -10,6 +10,10 @@ class Api
 		@movieAPIdata = JSON.parse(open("http://api.rottentomatoes.com/api/public/v1.0/movies.json?apikey=#{api_key}&q=#{movie}&page_limit=1").read)
 	end
 
+	def runtime
+		@movieAPIdata["movies"][0]["runtime"]
+	end
+
 	def alt_synopsis 
 		if @movieAPIdata["movies"][0]["critics_consensus"].blank? 
 			download = open("#{@movieAPIdata["movies"][0]["links"]["alternate"] }")
