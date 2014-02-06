@@ -1,5 +1,3 @@
-require 'debugger'
-
 class GeolocationsController < ActionController::Base
   
      layout 'application'
