@@ -37,6 +37,15 @@ gem 'jquery-rails'
 # Deploy with Capistrano
 # gem 'capistrano'
 
+group :production do
+ gem 'pg'
+end 
+
+group :development, :test do
+ gem 'debugger' 
+ gem 'sqlite3' 
+end
+
 group :development, :test  do
     gem 'sqlite3'
 end
