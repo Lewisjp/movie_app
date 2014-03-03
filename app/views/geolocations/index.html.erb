@@ -36,16 +36,10 @@
           <p>"There are no movie location near your location"</p>
         <% end %>
       <% end %>
-
+    </div>
+    <div class="noresults">
 <!-- Map preview if no search given -->
        <% if params[:search].present? == false %>
-            <div class="GeoDetails">
-                <b>Film:</b>
-                <%= @preview.scenes.pluck(:title)[0]%>
-                <br><b>Address:</b>
-                <%= @preview.address %>
-              <p><%= image_tag "http://maps.google.com/maps/api/staticmap?size=450x300&sensor=false&zoom=16&markers=#{@preview.latitude}%2C#{@preview.longitude}" %></p>
-            </div>
             <div class="MovieData">
             <div class="Poster">
 <!--               check if poster is available -->
@@ -55,7 +49,14 @@
                 <p><img src=<%= @movieAPIdata.poster %>></p>
               <% end %>
             </div>           
-          </div>
+            </div>
+            <div class="GeoDetails">
+                <b>Film:</b>
+                <%= @preview.scenes.pluck(:title)[0]%>
+                <br><b>Address:</b>
+                <%= @preview.address %>
+              <p><%= image_tag "http://maps.google.com/maps/api/staticmap?size=450x300&sensor=false&zoom=16&markers=#{@preview.latitude}%2C#{@preview.longitude}" %></p>
+            </div>
        <% end %>
     </div>
   </div>

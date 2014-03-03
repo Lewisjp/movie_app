@@ -14,6 +14,7 @@
 
 
   <%= form_for @location, url: {action: "create"} do |location_form| %>
+  <input placeholder="Enter website">
     <%= location_form.text_field(:address) %>
     <%= text_field_tag(:title) %>
     <%= f.submit %>

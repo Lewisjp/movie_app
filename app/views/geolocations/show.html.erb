@@ -4,8 +4,6 @@
   	<h1>
       <p><%= @location.scenes.pluck(:title)[0]%></p>
     </h1>
-  	<p>
-    <%= @movieAPIdata.synopsis %></p>
   </div>
 
   <div class="MovieData">
@@ -22,7 +20,7 @@
       Film Rating:   <%= @movieAPIdata.rating %><br>
       Year Released: <%= @movieAPIdata.year %><br>
       Year Runtime: <%= @movieAPIdata.runtime %><br>
-
+      <p><%= @movieAPIdata.synopsis %></p>
       <br><br>
        <!-- <i> User Input and filter results go here</i> -->
       <br><br>

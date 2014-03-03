@@ -34,7 +34,7 @@ div.container {
 .userInput {
   background-color: #8F8F8F;
   float: left;
-  padding: 2%;
+  padding: 1%;
 
   -webkit-border-radius: 10px;
   -moz-border-radius: 10px;
@@ -49,9 +49,24 @@ div.container {
     top: 1%;
     z-index: 100;
 
-  display:inline;
+  margin-left: auto;
+  margin-right: auto;
+
+
   text-align:center;
   height: 10%;
+
+  min-width: 3em;
+
+  height: -moz-min-content;
+  height: -webkit-min-content;
+  height: min-content;
+
+}
+
+.noresults {
+  display: inline-block;
+  padding-left: 35%;
 }
 
 /* movie results page */
@@ -90,17 +105,24 @@ img {
   float: left;
   display: block;
   margin: 15px;
-
+  max-width: 20%;
 }
 
 .GeoDetails {
   float:right;
   padding: 1%;
-  min-width: 36%;
+
   background-color: #fff;
   -webkit-border-radius: 10px;
   -moz-border-radius: 10px;
   border-radius: 10px;
+
+  height: -moz-min-content;
+  height: -webkit-min-content;
+  height: min-content;
+
+  width: auto;
+
 }
 
 /* first search page */
@@ -130,10 +152,19 @@ img {
 }
 
 .searchResults {
-background-color: #fff;
--webkit-border-radius: 10px;
--moz-border-radius: 10px;
-border-radius: 10px;
+  background-color: #fff;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+
+  width: 30%;
+
+  height: -moz-min-content;
+  height: -webkit-min-content;
+  height: min-content;
+
+  margin-left: auto;
+  margin-right: auto;
 
 }
 
