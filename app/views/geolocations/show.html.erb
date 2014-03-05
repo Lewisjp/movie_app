@@ -37,8 +37,8 @@
     <p><h3>Nearby locations</h3></p>
   	<ul>
   	<% @location.nearbys(0.25).each do |location| %>
-  	<li><%=location.scenes.pluck(:title)[0]%></li>
-  	  <li><%= link_to location.address, geolocation_path(location) %> (<%= location.distance.round(2) %> miles)</li>
+  	<li><strong><%=location.scenes.pluck(:title)[0]%></strong><br>
+      <%= link_to location.address, geolocation_path(location) %> (<%= location.distance.round(2) %> miles)</li>
   	<% end %>
   	</ul>
   </div>
