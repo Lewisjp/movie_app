@@ -34,11 +34,22 @@
   	  <p><b>Address:</b>
   	  <%= @location.address %></p>
   	<%= image_tag "http://maps.google.com/maps/api/staticmap?size=450x300&sensor=false&zoom=16&markers=#{@location.latitude}%2C#{@location.longitude}" %>
-    <p><h3>Nearby locations</h3></p>
-  	<ul>
-  	<% @location.nearbys(0.25).each do |location| %>
-  	<li><strong><%=location.scenes.pluck(:title)[0]%></strong><br>
-      <%= link_to location.address, geolocation_path(location) %> (<%= location.distance.round(2) %> miles)</li>
+
+        <% total = 0 %>
+        <% @location.nearbys(0.25).each do |location| %>
+          <% total += 1 %>
+        <% end %>
+
+        <% if total.to_i != 0  %>
+          <p><h3>Nearby locations</h3></p>
+        <% end %>
+        
+      	<ul>
+      	<% @location.nearbys(0.25).each do |location| %>
+      	<li><strong><%=location.scenes.pluck(:title)[0]%></strong><br>
+          <%= link_to location.address, geolocation_path(location) %> (<%= location.distance.round(2) %> miles)</li>
+
+
   	<% end %>
   	</ul>
   </div>
