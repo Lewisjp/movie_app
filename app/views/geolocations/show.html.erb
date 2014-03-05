@@ -17,9 +17,9 @@
     </div>
 
     <div class="MovieDetails">
-      Film Rating:   <%= @movieAPIdata.rating %><br>
-      Year Released: <%= @movieAPIdata.year %><br>
-      Year Runtime: <%= @movieAPIdata.runtime %><br>
+      <br><strong>Film Rating:</strong>   <%= @movieAPIdata.rating %><br>
+      <br><strong>Year Released:</strong> <%= @movieAPIdata.year %><br>
+      <br><strong>Year Runtime:</strong> <%= @movieAPIdata.runtime %> minutes<br>
       <p><%= @movieAPIdata.synopsis %></p>
       <br><br>
        <!-- <i> User Input and filter results go here</i> -->
@@ -41,9 +41,9 @@
         <% end %>
 
         <% if total.to_i != 0  %>
-          <p><h3>Nearby locations</h3></p>
+          <p><h3>Nearby locations within walking distance</h3></p>
         <% end %>
-        
+
       	<ul>
       	<% @location.nearbys(0.25).each do |location| %>
       	<li><strong><%=location.scenes.pluck(:title)[0]%></strong><br>

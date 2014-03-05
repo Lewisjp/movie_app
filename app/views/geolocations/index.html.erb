@@ -10,19 +10,21 @@
 
         <table>
           <tr>
+            <th></th>
             <th>Movie</th>
+            <th></th>
             <th>Address</th>
-            <th></th>
-            <th></th>
-            <th></th>
             <th></th>
           </tr>
 
           <% @locations.each do |location| %>
             <tr>
-               <td><%=location.scenes.pluck(:title)[0]%>,</td>
-               <td><%= location.address %></td>
-               <td><%= link_to 'Show', location %></td>
+              <td></td>
+              <% film_title = location.scenes.pluck(:title)[0]%>
+              <td><%= link_to film_title, location %>,</td>
+              <td></td>
+              <td><%= location.address %></td>
+
                <% if session[:user_id] %>
                <td><%= link_to 'Edit', edit_geolocation_path( location) %></td>
                <td><%= link_to 'Destroy', location, method: :delete, data: { confirm: 'Are you sure?' } %></td>
